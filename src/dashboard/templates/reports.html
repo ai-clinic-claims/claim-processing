@@ -1,0 +1,54 @@
+
+{% extends "base.html" %}
+
+{% block title %}Reports - Marine Claims Dashboard{% endblock %}
+
+{% block content %}
+<h2><i class="fas fa-file-pdf"></i> Claims Reports</h2>
+
+{% for company, reports in companies_reports.items() %}
+<div class="company-section">
+    <h4>{{ company }} <span class="badge bg-primary">{{ reports|length }} reports</span></h4>
+    
+    <div class="table-responsive">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Claim Number</th>
+                    <th>Subject</th>
+                    <th>Created</th>
+                    <th>Risk Score</th>
+                    <th>Size</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for report in reports %}
+                <tr>
+                    <td>{{ report.claim_number }}</td>
+                    <td>{{ report.subject|truncate(50) }}</td>
+                    <td>{{ report.created_at|format_date }}</td>
+                    <td>
+                        <span class="badge bg-{{ report.fraud_score|risk_color }}">
+                            {{ (report.fraud_score * 100)|int }}%
+                        </span>
+                    </td>
+                    <td>{{ report.size|format_size }}</td>
+                    <td>
+                        <a href="{{ report.download_url }}" class="btn btn-primary btn-sm">
+                            <i class="fas fa-download"></i> Download
+                        </a>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% else %}
+<div class="alert alert-info">
+    <i class="fas fa-info-circle"></i> No reports available yet. Process some emails to generate reports.
+</div>
+{% endfor %}
+{% endblock %}
+    

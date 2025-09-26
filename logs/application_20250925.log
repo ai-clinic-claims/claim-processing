@@ -1,0 +1,1361 @@
+2025-09-25 12:15:12,044 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 12:15:16,314 - emails.email_client - INFO - Successfully connected to email server
+2025-09-25 12:15:17,037 - emails.email_client - INFO - Found 3637 emails matching criteria
+2025-09-25 12:15:19,515 - emails.email_client - INFO - Extracted 0 attachments from email b'4482'
+2025-09-25 12:15:19,516 - emails.email_processor - INFO - Email b'4482' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:15:21,108 - emails.email_client - INFO - Extracted 0 attachments from email b'4483'
+2025-09-25 12:15:21,110 - emails.email_processor - INFO - Email b'4483' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:15:22,081 - emails.email_client - INFO - Extracted 0 attachments from email b'4484'
+2025-09-25 12:15:22,081 - emails.email_processor - INFO - Email b'4484' from alex@alexplayer.com does not match criteria
+2025-09-25 12:15:22,961 - emails.email_client - INFO - Extracted 0 attachments from email b'4485'
+2025-09-25 12:15:22,961 - emails.email_processor - INFO - Email b'4485' from info@icpkushite.com does not match criteria
+2025-09-25 12:15:26,336 - emails.email_client - INFO - Extracted 0 attachments from email b'4486'
+2025-09-25 12:15:26,336 - emails.email_processor - INFO - Email b'4486' from messages-noreply@linkedin.com does not match criteria
+2025-09-25 12:15:27,319 - emails.email_client - INFO - Extracted 0 attachments from email b'4487'
+2025-09-25 12:15:27,319 - emails.email_processor - INFO - Email b'4487' from info@w3schools.com does not match criteria
+2025-09-25 12:15:30,278 - emails.email_client - INFO - Extracted 0 attachments from email b'4488'
+2025-09-25 12:15:30,278 - emails.email_processor - INFO - Email b'4488' from updates-noreply@linkedin.com does not match criteria
+2025-09-25 12:15:39,027 - emails.email_client - INFO - Extracted 0 attachments from email b'4489'
+2025-09-25 12:15:39,027 - emails.email_processor - INFO - Email b'4489' from news@sfmc.edx.org does not match criteria
+2025-09-25 12:15:39,757 - emails.email_client - INFO - Extracted 0 attachments from email b'4490'
+2025-09-25 12:15:39,759 - emails.email_processor - INFO - Email b'4490' from ann.fuzu@fuzu.com does not match criteria
+2025-09-25 12:15:42,615 - emails.email_client - INFO - Extracted 0 attachments from email b'4491'
+2025-09-25 12:15:42,615 - emails.email_processor - INFO - Email b'4491' from jobs-listings@linkedin.com does not match criteria
+2025-09-25 12:15:43,440 - emails.email_client - INFO - Extracted 0 attachments from email b'4492'
+2025-09-25 12:15:43,441 - emails.email_processor - INFO - Email b'4492' from no-reply@microless.com does not match criteria
+2025-09-25 12:15:44,951 - emails.email_client - INFO - Extracted 0 attachments from email b'4493'
+2025-09-25 12:15:44,952 - emails.email_processor - INFO - Email b'4493' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:15:46,137 - emails.email_client - INFO - Extracted 0 attachments from email b'4494'
+2025-09-25 12:15:46,138 - emails.email_processor - INFO - Email b'4494' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:15:46,831 - emails.email_client - INFO - Extracted 0 attachments from email b'4495'
+2025-09-25 12:15:46,832 - emails.email_processor - INFO - Email b'4495' from no-reply@mail.instagram.com does not match criteria
+2025-09-25 12:15:47,457 - emails.email_client - INFO - Extracted 0 attachments from email b'4496'
+2025-09-25 12:15:47,458 - emails.email_processor - INFO - Email b'4496' from hello@mailing.aiprm.com does not match criteria
+2025-09-25 12:15:48,092 - emails.email_client - INFO - Extracted 0 attachments from email b'4497'
+2025-09-25 12:15:48,092 - emails.email_processor - INFO - Email b'4497' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:15:48,720 - emails.email_client - INFO - Extracted 0 attachments from email b'4498'
+2025-09-25 12:15:48,720 - emails.email_processor - INFO - Email b'4498' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:15:49,344 - emails.email_client - INFO - Extracted 0 attachments from email b'4499'
+2025-09-25 12:15:49,345 - emails.email_processor - INFO - Email b'4499' from english-personalized-digest@quora.com does not match criteria
+2025-09-25 12:15:50,389 - emails.email_client - INFO - Extracted 0 attachments from email b'4500'
+2025-09-25 12:15:50,391 - emails.email_processor - INFO - Email b'4500' from news@sfmc.edx.org does not match criteria
+2025-09-25 12:15:51,645 - emails.email_client - INFO - Extracted 0 attachments from email b'4501'
+2025-09-25 12:15:51,645 - emails.email_processor - INFO - Email b'4501' from ann.fuzu@fuzu.com does not match criteria
+2025-09-25 12:15:53,234 - emails.email_client - INFO - Extracted 0 attachments from email b'4502'
+2025-09-25 12:15:53,234 - emails.email_processor - INFO - Email b'4502' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:15:54,570 - emails.email_client - INFO - Extracted 0 attachments from email b'4503'
+2025-09-25 12:15:54,571 - emails.email_processor - INFO - Email b'4503' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:15:55,232 - emails.email_client - INFO - Extracted 0 attachments from email b'4504'
+2025-09-25 12:15:55,233 - emails.email_processor - INFO - Email b'4504' from admissions@mcnpartners.org does not match criteria
+2025-09-25 12:15:57,426 - emails.email_client - INFO - Extracted 0 attachments from email b'4505'
+2025-09-25 12:15:57,426 - emails.email_processor - INFO - Email b'4505' from messages-noreply@linkedin.com does not match criteria
+2025-09-25 12:15:58,471 - emails.email_client - INFO - Extracted 0 attachments from email b'4506'
+2025-09-25 12:15:58,471 - emails.email_processor - INFO - Email b'4506' from admissions@mcnpartners.org does not match criteria
+2025-09-25 12:15:59,817 - emails.email_client - INFO - Extracted 0 attachments from email b'4507'
+2025-09-25 12:15:59,818 - emails.email_processor - INFO - Email b'4507' from ieee@deliver.ieee.org does not match criteria
+2025-09-25 12:16:00,439 - emails.email_client - INFO - Extracted 0 attachments from email b'4508'
+2025-09-25 12:16:00,440 - emails.email_processor - INFO - Email b'4508' from learn@itr.mail.codecademy.com does not match criteria
+2025-09-25 12:16:01,074 - emails.email_client - INFO - Extracted 0 attachments from email b'4509'
+2025-09-25 12:16:01,075 - emails.email_processor - INFO - Email b'4509' from info@networkmagz.net does not match criteria
+2025-09-25 12:16:02,820 - emails.email_client - INFO - Extracted 0 attachments from email b'4510'
+2025-09-25 12:16:02,820 - emails.email_processor - INFO - Email b'4510' from updates-noreply@linkedin.com does not match criteria
+2025-09-25 12:16:03,541 - emails.email_client - INFO - Extracted 0 attachments from email b'4511'
+2025-09-25 12:16:03,542 - emails.email_processor - INFO - Email b'4511' from recommendations@explore.pinterest.com does not match criteria
+2025-09-25 12:16:04,775 - emails.email_client - INFO - Extracted 0 attachments from email b'4512'
+2025-09-25 12:16:04,775 - emails.email_processor - INFO - Email b'4512' from info@w3schools.com does not match criteria
+2025-09-25 12:16:05,472 - emails.email_client - INFO - Extracted 0 attachments from email b'4513'
+2025-09-25 12:16:05,473 - emails.email_processor - INFO - Email b'4513' from ann.fuzu@fuzu.com does not match criteria
+2025-09-25 12:16:07,449 - emails.email_client - INFO - Extracted 0 attachments from email b'4515'
+2025-09-25 12:16:07,450 - emails.email_processor - INFO - Email b'4515' from recommendations@discover.pinterest.com does not match criteria
+2025-09-25 12:16:08,486 - emails.email_client - INFO - Extracted 0 attachments from email b'4516'
+2025-09-25 12:16:08,487 - emails.email_processor - INFO - Email b'4516' from atyourservice@sbmbank.co.ke does not match criteria
+2025-09-25 12:16:09,448 - emails.email_client - INFO - Extracted 0 attachments from email b'4517'
+2025-09-25 12:16:09,449 - emails.email_processor - INFO - Email b'4517' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:16:11,020 - emails.email_client - INFO - Extracted 0 attachments from email b'4518'
+2025-09-25 12:16:11,020 - emails.email_processor - INFO - Email b'4518' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:16:12,203 - emails.email_client - INFO - Extracted 0 attachments from email b'4519'
+2025-09-25 12:16:12,204 - emails.email_processor - INFO - Email b'4519' from messages-noreply@linkedin.com does not match criteria
+2025-09-25 12:16:12,893 - emails.email_client - INFO - Extracted 0 attachments from email b'4520'
+2025-09-25 12:16:12,894 - emails.email_processor - INFO - Email b'4520' from notifications-noreply@linkedin.com does not match criteria
+2025-09-25 12:16:14,140 - emails.email_client - INFO - Extracted 0 attachments from email b'4521'
+2025-09-25 12:16:14,141 - emails.email_processor - INFO - Email b'4521' from news@sfmc.edx.org does not match criteria
+2025-09-25 12:16:14,746 - emails.email_client - INFO - Extracted 0 attachments from email b'4522'
+2025-09-25 12:16:14,747 - emails.email_processor - INFO - Email b'4522' from noreply@oracle.com does not match criteria
+2025-09-25 12:16:15,972 - emails.email_client - INFO - Extracted 0 attachments from email b'4523'
+2025-09-25 12:16:15,973 - emails.email_processor - INFO - Email b'4523' from noreply@pdffiller.com does not match criteria
+2025-09-25 12:16:16,584 - emails.email_client - INFO - Extracted 0 attachments from email b'4524'
+2025-09-25 12:16:16,584 - emails.email_processor - INFO - Email b'4524' from info@networkmagz.net does not match criteria
+2025-09-25 12:16:17,611 - emails.email_client - INFO - Extracted 0 attachments from email b'4525'
+2025-09-25 12:16:17,613 - emails.email_processor - INFO - Email b'4525' from hello@mailing.aiprm.com does not match criteria
+2025-09-25 12:16:18,401 - emails.email_client - INFO - Extracted 0 attachments from email b'4526'
+2025-09-25 12:16:18,402 - emails.email_processor - INFO - Email b'4526' from sarah@pdffiller.com does not match criteria
+2025-09-25 12:16:19,027 - emails.email_client - INFO - Extracted 0 attachments from email b'4527'
+2025-09-25 12:16:19,027 - emails.email_processor - INFO - Email b'4527' from sarah@pdffiller.com does not match criteria
+2025-09-25 12:16:19,819 - emails.email_client - INFO - Extracted 0 attachments from email b'4528'
+2025-09-25 12:16:19,820 - emails.email_processor - INFO - Email b'4528' from ann.fuzu@fuzu.com does not match criteria
+2025-09-25 12:16:21,229 - emails.email_client - INFO - Extracted 0 attachments from email b'4529'
+2025-09-25 12:16:21,229 - emails.email_processor - INFO - Email b'4529' from jobs-listings@linkedin.com does not match criteria
+2025-09-25 12:16:22,181 - emails.email_client - INFO - Extracted 0 attachments from email b'4530'
+2025-09-25 12:16:22,182 - emails.email_processor - INFO - Email b'4530' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:16:23,227 - emails.email_client - INFO - Extracted 0 attachments from email b'4531'
+2025-09-25 12:16:23,227 - emails.email_processor - INFO - Email b'4531' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:16:23,844 - emails.email_client - INFO - Extracted 0 attachments from email b'4532'
+2025-09-25 12:16:23,845 - emails.email_processor - INFO - Email b'4532' from mail@mail.adobe.com does not match criteria
+2025-09-25 12:16:24,470 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 12:16:24,471 - __main__ - INFO - Processing completed. Processed 0 emails
+2025-09-25 12:22:41,167 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 12:22:42,377 - emails.email_client - INFO - Successfully connected to email server
+2025-09-25 12:22:42,886 - emails.email_client - INFO - Found 3588 emails matching criteria
+2025-09-25 12:22:43,471 - emails.email_client - INFO - Extracted 0 attachments from email b'4533'
+2025-09-25 12:22:43,471 - emails.email_processor - INFO - Email b'4533' from recommendations@discover.pinterest.com does not match criteria
+2025-09-25 12:22:44,077 - emails.email_client - INFO - Extracted 0 attachments from email b'4534'
+2025-09-25 12:22:44,078 - emails.email_processor - INFO - Email b'4534' from learn@itr.mail.codecademy.com does not match criteria
+2025-09-25 12:22:52,489 - emails.email_client - INFO - Extracted 0 attachments from email b'4535'
+2025-09-25 12:22:52,491 - emails.email_processor - INFO - Email b'4535' from updates-noreply@linkedin.com does not match criteria
+2025-09-25 12:22:53,149 - emails.email_client - INFO - Extracted 0 attachments from email b'4536'
+2025-09-25 12:22:53,149 - emails.email_processor - INFO - Email b'4536' from notifications-noreply@linkedin.com does not match criteria
+2025-09-25 12:22:54,208 - emails.email_client - INFO - Extracted 0 attachments from email b'4537'
+2025-09-25 12:22:54,209 - emails.email_processor - INFO - Email b'4537' from zell@zellwk.com does not match criteria
+2025-09-25 12:22:56,202 - emails.email_client - INFO - Extracted 0 attachments from email b'4538'
+2025-09-25 12:22:56,203 - emails.email_processor - INFO - Email b'4538' from info@w3schools.com does not match criteria
+2025-09-25 12:22:57,489 - emails.email_client - INFO - Extracted 0 attachments from email b'4539'
+2025-09-25 12:22:57,489 - emails.email_processor - INFO - Email b'4539' from news@sfmc.edx.org does not match criteria
+2025-09-25 12:22:58,448 - emails.email_client - INFO - Extracted 0 attachments from email b'4540'
+2025-09-25 12:22:58,448 - emails.email_processor - INFO - Email b'4540' from sarah@pdffiller.com does not match criteria
+2025-09-25 12:22:59,053 - emails.email_client - INFO - Extracted 0 attachments from email b'4541'
+2025-09-25 12:22:59,053 - emails.email_processor - INFO - Email b'4541' from hello@mailing.aiprm.com does not match criteria
+2025-09-25 12:23:00,329 - emails.email_client - INFO - Extracted 0 attachments from email b'4542'
+2025-09-25 12:23:00,330 - emails.email_processor - INFO - Email b'4542' from contact@mail.replit.com does not match criteria
+2025-09-25 12:23:01,428 - emails.email_client - INFO - Extracted 0 attachments from email b'4543'
+2025-09-25 12:23:01,428 - emails.email_processor - INFO - Email b'4543' from recommendations@discover.pinterest.com does not match criteria
+2025-09-25 12:23:05,081 - emails.email_client - INFO - Extracted 0 attachments from email b'4544'
+2025-09-25 12:23:05,082 - emails.email_processor - INFO - Email b'4544' from english-personalized-digest@quora.com does not match criteria
+2025-09-25 12:23:07,630 - emails.email_client - INFO - Extracted 0 attachments from email b'4545'
+2025-09-25 12:23:07,630 - emails.email_processor - INFO - Email b'4545' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:23:08,354 - emails.email_client - INFO - Extracted 0 attachments from email b'4546'
+2025-09-25 12:23:08,355 - emails.email_processor - INFO - Email b'4546' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:23:10,384 - emails.email_client - INFO - Extracted 0 attachments from email b'4547'
+2025-09-25 12:23:10,384 - emails.email_processor - INFO - Email b'4547' from admissions@mcnpartners.org does not match criteria
+2025-09-25 12:23:11,034 - emails.email_client - INFO - Extracted 0 attachments from email b'4548'
+2025-09-25 12:23:11,034 - emails.email_processor - INFO - Email b'4548' from atyourservice@sbmbank.co.ke does not match criteria
+2025-09-25 12:23:11,637 - emails.email_client - INFO - Extracted 0 attachments from email b'4549'
+2025-09-25 12:23:11,638 - emails.email_processor - INFO - Email b'4549' from linkedin@e.linkedin.com does not match criteria
+2025-09-25 12:23:12,450 - emails.email_client - INFO - Extracted 0 attachments from email b'4550'
+2025-09-25 12:23:12,451 - emails.email_processor - INFO - Email b'4550' from info@networkmagz.net does not match criteria
+2025-09-25 12:23:13,065 - emails.email_client - INFO - Extracted 0 attachments from email b'4551'
+2025-09-25 12:23:13,065 - emails.email_processor - INFO - Email b'4551' from notifications-noreply@linkedin.com does not match criteria
+2025-09-25 12:23:13,924 - emails.email_client - INFO - Extracted 0 attachments from email b'4552'
+2025-09-25 12:23:13,925 - emails.email_processor - INFO - Email b'4552' from sarah@pdffiller.com does not match criteria
+2025-09-25 12:23:14,572 - emails.email_client - INFO - Extracted 0 attachments from email b'4553'
+2025-09-25 12:23:14,572 - emails.email_processor - INFO - Email b'4553' from ann.fuzu@fuzu.com does not match criteria
+2025-09-25 12:23:15,204 - emails.email_client - INFO - Extracted 0 attachments from email b'4554'
+2025-09-25 12:23:15,205 - emails.email_processor - INFO - Email b'4554' from list2@list.aiprm.com does not match criteria
+2025-09-25 12:23:15,962 - emails.email_client - INFO - Extracted 0 attachments from email b'4555'
+2025-09-25 12:23:15,962 - emails.email_processor - INFO - Email b'4555' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:23:16,924 - emails.email_client - INFO - Extracted 0 attachments from email b'4556'
+2025-09-25 12:23:16,925 - emails.email_processor - INFO - Email b'4556' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:23:17,605 - emails.email_client - INFO - Extracted 0 attachments from email b'4557'
+2025-09-25 12:23:17,606 - emails.email_processor - INFO - Email b'4557' from info@w3schools.com does not match criteria
+2025-09-25 12:23:18,350 - emails.email_client - INFO - Extracted 0 attachments from email b'4558'
+2025-09-25 12:23:18,350 - emails.email_processor - INFO - Email b'4558' from KilimallKenya@mkt.kilimall.com does not match criteria
+2025-09-25 12:23:19,019 - emails.email_client - INFO - Extracted 0 attachments from email b'4559'
+2025-09-25 12:23:19,019 - emails.email_processor - INFO - Email b'4559' from learn@itr.mail.codecademy.com does not match criteria
+2025-09-25 12:23:19,774 - emails.email_client - INFO - Extracted 0 attachments from email b'4560'
+2025-09-25 12:23:19,775 - emails.email_processor - INFO - Email b'4560' from messages-noreply@linkedin.com does not match criteria
+2025-09-25 12:23:20,431 - emails.email_client - INFO - Extracted 0 attachments from email b'4561'
+2025-09-25 12:23:20,431 - emails.email_processor - INFO - Email b'4561' from noreply@gettwoit.com does not match criteria
+2025-09-25 12:23:21,066 - emails.email_client - INFO - Extracted 0 attachments from email b'4562'
+2025-09-25 12:23:21,066 - emails.email_processor - INFO - Email b'4562' from updates-noreply@linkedin.com does not match criteria
+2025-09-25 12:23:21,681 - emails.email_client - INFO - Extracted 0 attachments from email b'4563'
+2025-09-25 12:23:21,682 - emails.email_processor - INFO - Email b'4563' from notifications-noreply@linkedin.com does not match criteria
+2025-09-25 12:23:22,326 - emails.email_client - INFO - Extracted 0 attachments from email b'4564'
+2025-09-25 12:23:22,328 - emails.email_processor - INFO - Email b'4564' from list2@list.aiprm.com does not match criteria
+2025-09-25 12:23:23,042 - emails.email_client - INFO - Extracted 0 attachments from email b'4565'
+2025-09-25 12:23:23,042 - emails.email_processor - INFO - Email b'4565' from team@datacamp.com does not match criteria
+2025-09-25 12:23:23,654 - emails.email_client - INFO - Extracted 0 attachments from email b'4566'
+2025-09-25 12:23:23,654 - emails.email_processor - INFO - Email b'4566' from hello@mailing.aiprm.com does not match criteria
+2025-09-25 12:23:24,413 - emails.email_client - INFO - Extracted 0 attachments from email b'4567'
+2025-09-25 12:23:24,414 - emails.email_processor - INFO - Email b'4567' from sarah@pdffiller.com does not match criteria
+2025-09-25 12:23:25,087 - emails.email_client - INFO - Extracted 0 attachments from email b'4568'
+2025-09-25 12:23:25,087 - emails.email_processor - INFO - Email b'4568' from ann.fuzu@fuzu.com does not match criteria
+2025-09-25 12:23:25,721 - emails.email_client - INFO - Extracted 0 attachments from email b'4569'
+2025-09-25 12:23:25,722 - emails.email_processor - INFO - Email b'4569' from updates@simplilearnmailer.com does not match criteria
+2025-09-25 12:23:26,545 - emails.email_client - INFO - Extracted 0 attachments from email b'4570'
+2025-09-25 12:23:26,545 - emails.email_processor - INFO - Email b'4570' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:23:27,425 - emails.email_client - INFO - Extracted 0 attachments from email b'4571'
+2025-09-25 12:23:27,425 - emails.email_processor - INFO - Email b'4571' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:23:28,160 - emails.email_client - INFO - Extracted 0 attachments from email b'4572'
+2025-09-25 12:23:28,160 - emails.email_processor - INFO - Email b'4572' from team@datacamp.com does not match criteria
+2025-09-25 12:23:28,874 - emails.email_client - INFO - Extracted 0 attachments from email b'4573'
+2025-09-25 12:23:28,874 - emails.email_processor - INFO - Email b'4573' from info@networkmagz.net does not match criteria
+2025-09-25 12:23:29,534 - emails.email_client - INFO - Extracted 0 attachments from email b'4574'
+2025-09-25 12:23:29,535 - emails.email_processor - INFO - Email b'4574' from hello@mailing.aiprm.com does not match criteria
+2025-09-25 12:23:30,537 - emails.email_client - INFO - Extracted 0 attachments from email b'4575'
+2025-09-25 12:23:30,538 - emails.email_processor - INFO - Email b'4575' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:23:31,343 - emails.email_client - INFO - Extracted 0 attachments from email b'4576'
+2025-09-25 12:23:31,343 - emails.email_processor - INFO - Email b'4576' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:23:31,943 - emails.email_client - INFO - Extracted 0 attachments from email b'4578'
+2025-09-25 12:23:31,944 - emails.email_processor - INFO - Email b'4578' from sarah@pdffiller.com does not match criteria
+2025-09-25 12:23:32,571 - emails.email_client - ERROR - Error fetching email b'4579': unknown encoding: unknown-8bit
+2025-09-25 12:23:33,008 - emails.email_client - INFO - Extracted 0 attachments from email b'4580'
+2025-09-25 12:23:33,009 - emails.email_processor - INFO - Email b'4580' from ann.fuzu@fuzu.com does not match criteria
+2025-09-25 12:23:33,672 - emails.email_client - INFO - Extracted 0 attachments from email b'4581'
+2025-09-25 12:23:33,672 - emails.email_processor - INFO - Email b'4581' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:23:34,393 - emails.email_client - INFO - Extracted 0 attachments from email b'4582'
+2025-09-25 12:23:34,393 - emails.email_processor - INFO - Email b'4582' from jobalerts-noreply@linkedin.com does not match criteria
+2025-09-25 12:23:35,038 - emails.email_client - INFO - Extracted 0 attachments from email b'4583'
+2025-09-25 12:23:35,039 - emails.email_processor - INFO - Email b'4583' from info@w3schools.com does not match criteria
+2025-09-25 12:23:35,720 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 12:23:35,720 - __main__ - INFO - Processing completed. Processed 0 emails
+2025-09-25 12:30:38,125 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 12:30:38,125 - emails.email_processor - INFO - Starting email processing...
+2025-09-25 12:30:38,126 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 12:30:39,294 - emails.email_client - INFO - SSL connection established
+2025-09-25 12:30:39,558 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 12:30:39,762 - emails.email_client - INFO - Selected folder 'INBOX' with 8486 messages
+2025-09-25 12:30:40,419 - emails.email_processor - INFO - Total emails in INBOX: 8486
+2025-09-25 12:30:40,620 - emails.email_client - INFO - Selected folder 'INBOX' with 8486 messages
+2025-09-25 12:30:40,621 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "Daphneymaebawork@gmail.com")
+2025-09-25 12:30:40,920 - emails.email_client - INFO - Found 1 emails matching criteria
+2025-09-25 12:30:40,921 - emails.email_processor - INFO - Found 1 unread emails from target sender
+2025-09-25 12:30:40,922 - emails.email_processor - INFO - Processing email 1/1
+2025-09-25 12:30:42,765 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-25 12:30:42,765 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 12:30:42,766 - emails.email_processor - INFO - Fetched email: 'claim' from daphneymaebawork@gmail.com
+2025-09-25 12:30:42,766 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 12:30:42,770 - emails.email_processor - INFO - Saved email data to c:\Users\KELLY NYACHIRO\data\processed\email_8486_20250925_123042
+2025-09-25 12:30:43,531 - emails.email_processor - INFO - Successfully processed email b'8486'
+2025-09-25 12:30:43,532 - emails.email_processor - INFO - Email processing completed. Successfully processed 1 emails
+2025-09-25 12:30:43,926 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 12:30:43,927 - __main__ - INFO - Processing completed. Processed 1 emails
+2025-09-25 12:30:43,951 - __main__ - INFO -   Attachments: 1
+2025-09-25 12:30:43,952 - __main__ - INFO -   Saved to: email_8486_20250925_123042
+2025-09-25 12:42:51,483 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 12:42:51,485 - __main__ - ERROR - Application error: "Style 'BodyText' already defined in stylesheet"
+2025-09-25 13:11:31,788 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 13:11:31,789 - emails.email_processor - INFO - Starting email processing...
+2025-09-25 13:11:31,790 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 13:11:32,538 - emails.email_client - INFO - SSL connection established
+2025-09-25 13:11:32,973 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 13:11:33,339 - emails.email_client - INFO - Selected folder 'INBOX' with 8487 messages
+2025-09-25 13:11:33,665 - emails.email_client - INFO - Selected folder 'INBOX' with 8487 messages
+2025-09-25 13:11:33,666 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "Daphneymaebawork@gmail.com")
+2025-09-25 13:11:33,973 - emails.email_client - INFO - No emails found matching criteria
+2025-09-25 13:11:34,279 - emails.email_client - INFO - Selected folder 'INBOX' with 8487 messages
+2025-09-25 13:11:34,280 - emails.email_client - INFO - Searching emails with criteria: (FROM "Daphneymaebawork@gmail.com")
+2025-09-25 13:11:34,589 - emails.email_client - INFO - Found 3 emails matching criteria
+2025-09-25 13:11:34,590 - emails.email_processor - INFO - Processing email 1/3
+2025-09-25 13:11:35,001 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-25 13:11:35,002 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-25 13:11:35,003 - emails.email_processor - INFO - Processing email 2/3
+2025-09-25 13:11:41,665 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-25 13:11:41,666 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 13:11:41,667 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 13:11:41,677 - pdf_compilation.pdf_compiler - INFO - Found claim number: HIIIII
+2025-09-25 13:11:41,713 - pdf_compilation.pdf_compiler - INFO - Successfully compiled PDF: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_131141.pdf
+2025-09-25 13:11:42,083 - pdf_compilation.pdf_compiler - INFO - Found claim number: HIIIII
+2025-09-25 13:11:42,123 - emails.email_processor - INFO - Successfully processed email b'8481'
+2025-09-25 13:11:42,141 - emails.email_processor - INFO - Processing email 3/3
+2025-09-25 13:11:43,582 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-25 13:11:43,582 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 13:11:43,583 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 13:11:43,592 - pdf_compilation.pdf_compiler - WARNING - No claim number found, using: CLAIM_20250925_131143
+2025-09-25 13:11:43,610 - pdf_compilation.pdf_compiler - INFO - Successfully compiled PDF: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_131143_20250925_131143.pdf
+2025-09-25 13:11:44,004 - pdf_compilation.pdf_compiler - WARNING - No claim number found, using: CLAIM_20250925_131144
+2025-09-25 13:11:44,035 - emails.email_processor - INFO - Successfully processed email b'8486'
+2025-09-25 13:11:44,586 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 13:11:44,586 - __main__ - INFO - Processing completed. Processed 2 emails
+2025-09-25 13:11:44,599 - __main__ - INFO -   Attachments: 2
+2025-09-25 13:11:44,600 - __main__ - INFO -   Claim Number: HIIIII
+2025-09-25 13:11:44,602 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_131141.pdf
+2025-09-25 13:11:44,615 - __main__ - INFO -   Attachments: 1
+2025-09-25 13:11:44,615 - __main__ - INFO -   Claim Number: CLAIM_20250925_131144
+2025-09-25 13:11:44,616 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_131143_20250925_131143.pdf
+2025-09-25 13:29:37,848 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 13:29:37,852 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 13:29:37,853 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 13:29:38,665 - emails.email_client - INFO - SSL connection established
+2025-09-25 13:29:39,071 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 13:29:39,320 - emails.email_client - INFO - Selected folder 'INBOX' with 8487 messages
+2025-09-25 13:29:39,584 - emails.email_client - INFO - Selected folder 'INBOX' with 8487 messages
+2025-09-25 13:29:39,585 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "Daphneymaebawork@gmail.com")
+2025-09-25 13:29:39,898 - emails.email_client - INFO - No emails found matching criteria
+2025-09-25 13:29:40,198 - emails.email_client - INFO - Selected folder 'INBOX' with 8487 messages
+2025-09-25 13:29:40,201 - emails.email_client - INFO - Searching emails with criteria: (FROM "Daphneymaebawork@gmail.com")
+2025-09-25 13:29:40,515 - emails.email_client - INFO - Found 3 emails matching criteria
+2025-09-25 13:29:40,516 - emails.email_processor - INFO - Processing email 1/3
+2025-09-25 13:29:40,819 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-25 13:29:40,820 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-25 13:29:40,820 - emails.email_processor - INFO - Processing email 2/3
+2025-09-25 13:29:46,594 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-25 13:29:46,594 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 13:29:46,595 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 13:29:51,189 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_132946.pdf
+2025-09-25 13:29:51,190 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_132946.pdf
+2025-09-25 13:29:51,436 - emails.email_processor - INFO - Successfully processed email b'8481' with full content extraction
+2025-09-25 13:29:51,437 - emails.email_processor - INFO - Processing email 3/3
+2025-09-25 13:29:53,408 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-25 13:29:53,409 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 13:29:53,409 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 13:29:54,283 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_132953_20250925_132953.pdf
+2025-09-25 13:29:54,284 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_132953_20250925_132953.pdf
+2025-09-25 13:29:54,568 - emails.email_processor - INFO - Successfully processed email b'8486' with full content extraction
+2025-09-25 13:29:54,971 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 13:29:54,972 - __main__ - INFO - Processing completed. Processed 2 emails
+2025-09-25 13:29:54,985 - __main__ - INFO -   Attachments: 2
+2025-09-25 13:29:54,986 - __main__ - INFO -   Claim Number: HIIIII
+2025-09-25 13:29:54,987 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_132946.pdf
+2025-09-25 13:29:54,993 - __main__ - INFO -   Attachments: 1
+2025-09-25 13:29:54,994 - __main__ - INFO -   Claim Number: CLAIM_20250925_132954
+2025-09-25 13:29:54,994 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_132953_20250925_132953.pdf
+2025-09-25 14:26:53,156 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 14:26:53,158 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 14:26:53,159 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 14:26:53,440 - emails.email_client - ERROR - Failed to connect to email server: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-09-25 14:26:53,441 - emails.email_processor - ERROR - Failed to connect to email server
+2025-09-25 14:26:53,442 - __main__ - INFO - No emails were processed
+2025-09-25 14:28:46,727 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 14:28:46,729 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 14:28:46,729 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 14:28:46,754 - emails.email_client - ERROR - Failed to connect to email server: [Errno 11001] getaddrinfo failed
+2025-09-25 14:28:46,756 - emails.email_processor - ERROR - Failed to connect to email server
+2025-09-25 14:28:46,757 - __main__ - INFO - No emails were processed
+2025-09-25 14:43:53,934 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 14:43:53,935 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 14:43:53,935 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 14:43:54,777 - emails.email_client - INFO - SSL connection established
+2025-09-25 14:43:55,318 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 14:43:55,572 - emails.email_client - INFO - Selected folder 'INBOX' with 8488 messages
+2025-09-25 14:43:55,800 - emails.email_client - INFO - Selected folder 'INBOX' with 8488 messages
+2025-09-25 14:43:55,800 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "Daphneymaebawork@gmail.com")
+2025-09-25 14:43:56,023 - emails.email_client - INFO - No emails found matching criteria
+2025-09-25 14:43:56,291 - emails.email_client - INFO - Selected folder 'INBOX' with 8488 messages
+2025-09-25 14:43:56,291 - emails.email_client - INFO - Searching emails with criteria: (FROM "Daphneymaebawork@gmail.com")
+2025-09-25 14:43:56,507 - emails.email_client - INFO - Found 3 emails matching criteria
+2025-09-25 14:43:56,507 - emails.email_processor - INFO - Processing email 1/3
+2025-09-25 14:43:57,279 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-25 14:43:57,280 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-25 14:43:57,280 - emails.email_processor - INFO - Processing email 2/3
+2025-09-25 14:44:03,476 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-25 14:44:03,476 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 14:44:03,477 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 14:44:11,219 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_HIIIII_20250925_144411.txt
+2025-09-25 14:44:11,219 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_144403.pdf
+2025-09-25 14:44:11,220 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_144403.pdf
+2025-09-25 14:44:11,583 - emails.email_processor - INFO - Successfully processed email b'8481' with full content extraction
+2025-09-25 14:44:11,584 - emails.email_processor - INFO - Processing email 3/3
+2025-09-25 14:44:14,441 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-25 14:44:14,441 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 14:44:14,442 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 14:44:16,618 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_CLAIM_20250925_144416_20250925_144416.txt
+2025-09-25 14:44:16,618 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_144414_20250925_144414.pdf
+2025-09-25 14:44:16,619 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_144414_20250925_144414.pdf
+2025-09-25 14:44:16,848 - emails.email_processor - INFO - Successfully processed email b'8486' with full content extraction
+2025-09-25 14:44:17,306 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 14:44:17,307 - __main__ - INFO - Processing completed. Processed 2 emails
+2025-09-25 14:44:17,315 - __main__ - INFO -   Attachments: 2
+2025-09-25 14:44:17,316 - __main__ - INFO -   Claim Number: HIIIII
+2025-09-25 14:44:17,316 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_144403.pdf
+2025-09-25 14:44:17,325 - __main__ - INFO -   Attachments: 1
+2025-09-25 14:44:17,325 - __main__ - INFO -   Claim Number: CLAIM_20250925_144416
+2025-09-25 14:44:17,326 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_144414_20250925_144414.pdf
+2025-09-25 15:31:08,543 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 15:31:08,545 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 15:31:08,545 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 15:31:09,220 - emails.email_client - INFO - SSL connection established
+2025-09-25 15:31:10,036 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 15:31:10,300 - emails.email_client - INFO - Selected folder 'INBOX' with 8489 messages
+2025-09-25 15:31:10,554 - emails.email_client - INFO - Selected folder 'INBOX' with 8489 messages
+2025-09-25 15:31:10,554 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "Daphneymaebawork@gmail.com")
+2025-09-25 15:31:10,766 - emails.email_client - INFO - No emails found matching criteria
+2025-09-25 15:31:10,990 - emails.email_client - INFO - Selected folder 'INBOX' with 8489 messages
+2025-09-25 15:31:10,991 - emails.email_client - INFO - Searching emails with criteria: (FROM "Daphneymaebawork@gmail.com")
+2025-09-25 15:31:11,203 - emails.email_client - INFO - Found 3 emails matching criteria
+2025-09-25 15:31:11,204 - emails.email_processor - INFO - Processing email 1/3
+2025-09-25 15:31:11,472 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-25 15:31:11,474 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-25 15:31:11,475 - emails.email_processor - INFO - Processing email 2/3
+2025-09-25 15:31:14,199 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-25 15:31:14,199 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 15:31:14,200 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 15:31:24,342 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_HIIIII_20250925_153124.txt
+2025-09-25 15:31:24,342 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_153114.pdf
+2025-09-25 15:31:24,342 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_153114.pdf
+2025-09-25 15:31:24,586 - emails.email_processor - INFO - Successfully processed email b'8481' with full content extraction
+2025-09-25 15:31:24,586 - emails.email_processor - INFO - Processing email 3/3
+2025-09-25 15:31:25,780 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-25 15:31:25,780 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 15:31:25,780 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 15:31:28,103 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_CLAIM_20250925_153128_20250925_153128.txt
+2025-09-25 15:31:28,103 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_153125_20250925_153125.pdf
+2025-09-25 15:31:28,104 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_153125_20250925_153125.pdf
+2025-09-25 15:31:28,364 - emails.email_processor - INFO - Successfully processed email b'8486' with full content extraction
+2025-09-25 15:31:28,800 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 15:31:28,801 - __main__ - INFO - Processing completed. Processed 2 emails
+2025-09-25 15:31:28,808 - __main__ - INFO -   Attachments: 2
+2025-09-25 15:31:28,809 - __main__ - INFO -   Claim Number: HIIIII
+2025-09-25 15:31:28,809 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_153114.pdf
+2025-09-25 15:31:28,813 - __main__ - INFO -   Attachments: 1
+2025-09-25 15:31:28,814 - __main__ - INFO -   Claim Number: CLAIM_20250925_153128
+2025-09-25 15:31:28,816 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_153125_20250925_153125.pdf
+2025-09-25 15:42:37,375 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 15:42:37,376 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 15:42:37,377 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 15:42:38,242 - emails.email_client - INFO - SSL connection established
+2025-09-25 15:42:38,761 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 15:42:38,988 - emails.email_client - INFO - Selected folder 'INBOX' with 8492 messages
+2025-09-25 15:42:39,196 - emails.email_client - INFO - Selected folder 'INBOX' with 8492 messages
+2025-09-25 15:42:39,197 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "Daphneymaebawork@gmail.com")
+2025-09-25 15:42:39,392 - emails.email_client - INFO - Found 1 emails matching criteria
+2025-09-25 15:42:39,392 - emails.email_processor - INFO - Processing email 1/1
+2025-09-25 15:42:40,496 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-25 15:42:40,497 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-25 15:42:40,497 - emails.email_processor - INFO - Processing relevant email: claims
+2025-09-25 15:42:42,558 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_S_20250925_154242.txt
+2025-09-25 15:42:42,558 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_154240.pdf
+2025-09-25 15:42:42,559 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_154240.pdf
+2025-09-25 15:42:42,848 - emails.email_processor - INFO - Successfully processed email b'8490' with full content extraction
+2025-09-25 15:42:43,231 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 15:42:43,231 - __main__ - INFO - Processing completed. Processed 1 emails
+2025-09-25 15:42:43,239 - __main__ - INFO -   Attachments: 1
+2025-09-25 15:42:43,239 - __main__ - INFO -   Claim Number: S
+2025-09-25 15:42:43,240 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_154240.pdf
+2025-09-25 15:57:00,745 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 15:57:00,746 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 15:57:00,746 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 15:57:00,764 - emails.email_client - ERROR - Failed to connect to email server: [Errno 11001] getaddrinfo failed
+2025-09-25 15:57:00,765 - emails.email_processor - ERROR - Failed to connect to email server
+2025-09-25 15:57:00,766 - __main__ - INFO - No emails were processed
+2025-09-25 15:58:09,339 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 15:58:09,340 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 15:58:09,340 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 15:58:09,351 - emails.email_client - ERROR - Failed to connect to email server: [Errno 11001] getaddrinfo failed
+2025-09-25 15:58:09,351 - emails.email_processor - ERROR - Failed to connect to email server
+2025-09-25 15:58:09,352 - __main__ - INFO - No emails were processed
+2025-09-25 15:59:19,133 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 15:59:19,134 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 15:59:19,135 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 15:59:23,366 - emails.email_client - ERROR - Failed to connect to email server: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-09-25 15:59:23,368 - emails.email_processor - ERROR - Failed to connect to email server
+2025-09-25 15:59:23,368 - __main__ - INFO - No emails were processed
+2025-09-25 16:01:32,152 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 16:01:32,154 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 16:01:32,155 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 16:01:32,870 - emails.email_client - INFO - SSL connection established
+2025-09-25 16:01:33,254 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 16:01:33,491 - emails.email_client - INFO - Selected folder 'INBOX' with 8492 messages
+2025-09-25 16:01:33,703 - emails.email_client - INFO - Selected folder 'INBOX' with 8492 messages
+2025-09-25 16:01:33,703 - emails.email_client - INFO - Searching emails with criteria: UNSEEN
+2025-09-25 16:01:34,009 - emails.email_client - INFO - Found 3541 emails matching criteria
+2025-09-25 16:01:34,010 - emails.email_processor - INFO - Processing email 1/3541
+2025-09-25 16:01:34,593 - emails.email_client - INFO - Extracted 0 attachments from email b'4584'
+2025-09-25 16:01:34,611 - emails.email_processor - INFO - Processing email 2/3541
+2025-09-25 16:01:35,038 - emails.email_client - INFO - Extracted 0 attachments from email b'4585'
+2025-09-25 16:01:35,038 - emails.email_client - INFO - Successfully parsed email: LAST CHANCE: Cyber Week sale
+2025-09-25 16:01:35,039 - emails.email_processor - INFO - Processing email 3/3541
+2025-09-25 16:01:35,451 - emails.email_client - INFO - Extracted 0 attachments from email b'4586'
+2025-09-25 16:01:35,452 - emails.email_client - INFO - Successfully parsed email: Discover the benefits of IEEE membership
+2025-09-25 16:01:35,453 - emails.email_processor - INFO - Processing email 4/3541
+2025-09-25 16:01:35,945 - emails.email_client - INFO - Extracted 0 attachments from email b'4587'
+2025-09-25 16:01:35,946 - emails.email_client - INFO - Successfully parsed email: kelly, Henry N. has a new post out now
+2025-09-25 16:01:35,947 - emails.email_processor - INFO - Processing email 5/3541
+2025-09-25 16:01:36,344 - emails.email_client - INFO - Extracted 0 attachments from email b'4588'
+2025-09-25 16:01:36,344 - emails.email_client - INFO - Successfully parsed email: Cyber Monday: $74 Off
+2025-09-25 16:01:36,345 - emails.email_processor - INFO - Processing email 6/3541
+2025-09-25 16:01:36,748 - emails.email_client - INFO - Extracted 0 attachments from email b'4589'
+2025-09-25 16:01:36,748 - emails.email_client - INFO - Successfully parsed email: There’s still time to save on your professional growth
+2025-09-25 16:01:36,749 - emails.email_processor - INFO - Processing relevant email: There’s still time to save on your professional growth
+2025-09-25 16:01:36,875 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_YOUR_20250925_160136.txt
+2025-09-25 16:01:36,876 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_YOUR_20250925_160136.pdf
+2025-09-25 16:01:36,876 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_YOUR_20250925_160136.pdf
+2025-09-25 16:01:37,160 - emails.email_processor - INFO - Successfully processed email b'4589' with full content extraction
+2025-09-25 16:01:37,161 - emails.email_processor - INFO - Processing email 7/3541
+2025-09-25 16:01:37,625 - emails.email_client - INFO - Extracted 0 attachments from email b'4590'
+2025-09-25 16:01:37,625 - emails.email_client - INFO - Successfully parsed email: Biggest discount for Replit Agent [Cyber Monday]
+2025-09-25 16:01:37,626 - emails.email_processor - INFO - Processing email 8/3541
+2025-09-25 16:01:38,069 - emails.email_client - INFO - Extracted 0 attachments from email b'4591'
+2025-09-25 16:01:38,069 - emails.email_client - INFO - Successfully parsed email: missed out kelly?
+2025-09-25 16:01:38,071 - emails.email_processor - INFO - Processing email 9/3541
+2025-09-25 16:01:38,555 - emails.email_client - INFO - Extracted 0 attachments from email b'4592'
+2025-09-25 16:01:38,555 - emails.email_client - INFO - Successfully parsed email: Tumeextend Black Friday Na Siku Mbili
+2025-09-25 16:01:38,556 - emails.email_processor - INFO - Processing email 10/3541
+2025-09-25 16:01:39,062 - emails.email_client - INFO - Extracted 0 attachments from email b'4593'
+2025-09-25 16:01:39,063 - emails.email_client - INFO - Successfully parsed email: Daily Job Alert: Senior ICT Officer III (Team Leader Web Development) and 2 more matches!
+2025-09-25 16:01:39,064 - emails.email_processor - INFO - Processing email 11/3541
+2025-09-25 16:01:39,519 - emails.email_client - INFO - Extracted 0 attachments from email b'4594'
+2025-09-25 16:01:39,524 - emails.email_client - INFO - Successfully parsed email: Your latest Oracle jobs
+2025-09-25 16:01:39,524 - emails.email_processor - INFO - Processing email 12/3541
+2025-09-25 16:01:41,159 - emails.email_client - INFO - Extracted 0 attachments from email b'4595'
+2025-09-25 16:01:41,160 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Amazon - 2025 Software Dev Engineer Intern and more
+2025-09-25 16:01:41,161 - emails.email_processor - INFO - Processing email 13/3541
+2025-09-25 16:01:41,608 - emails.email_client - INFO - Extracted 0 attachments from email b'4596'
+2025-09-25 16:01:41,609 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Deel Full-Stack Engineer- Nextgen (.NET/C#) and more
+2025-09-25 16:01:41,610 - emails.email_processor - INFO - Processing email 14/3541
+2025-09-25 16:01:42,077 - emails.email_client - INFO - Extracted 0 attachments from email b'4597'
+2025-09-25 16:01:42,078 - emails.email_client - INFO - Successfully parsed email: Enjoy Seamless FX Transactions on Mfukoni
+2025-09-25 16:01:42,079 - emails.email_processor - INFO - Processing email 15/3541
+2025-09-25 16:01:45,315 - emails.email_client - INFO - Extracted 0 attachments from email b'4598'
+2025-09-25 16:01:45,325 - emails.email_processor - INFO - Processing email 16/3541
+2025-09-25 16:01:45,819 - emails.email_client - INFO - Extracted 0 attachments from email b'4599'
+2025-09-25 16:01:45,819 - emails.email_client - INFO - Successfully parsed email: Cyber Week sale extended — 50% off Pro
+2025-09-25 16:01:45,820 - emails.email_processor - INFO - Processing email 17/3541
+2025-09-25 16:01:46,337 - emails.email_client - INFO - Extracted 0 attachments from email b'4600'
+2025-09-25 16:01:46,346 - emails.email_processor - INFO - Processing email 18/3541
+2025-09-25 16:01:46,761 - emails.email_client - INFO - Extracted 0 attachments from email b'4601'
+2025-09-25 16:01:46,762 - emails.email_client - INFO - Successfully parsed email: Recognition Just a Step Away: Complete Your Course and Show Off Your Certificate 
+2025-09-25 16:01:46,763 - emails.email_processor - INFO - Processing email 19/3541
+2025-09-25 16:01:47,192 - emails.email_client - INFO - Extracted 0 attachments from email b'4602'
+2025-09-25 16:01:47,193 - emails.email_client - INFO - Successfully parsed email: Inspired by Kellynyachiro
+2025-09-25 16:01:47,193 - emails.email_processor - INFO - Processing email 20/3541
+2025-09-25 16:01:47,636 - emails.email_client - INFO - Extracted 0 attachments from email b'4603'
+2025-09-25 16:01:47,636 - emails.email_client - INFO - Successfully parsed email: themeparX / resortX is hiring a Virtual Assistant [work from home
+ or anywhere]
+2025-09-25 16:01:47,637 - emails.email_processor - INFO - Processing email 21/3541
+2025-09-25 16:01:48,225 - emails.email_client - INFO - Extracted 0 attachments from email b'4604'
+2025-09-25 16:01:48,226 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Procore Technologies Intern, Software Engineer and more
+2025-09-25 16:01:48,228 - emails.email_processor - INFO - Processing email 22/3541
+2025-09-25 16:01:48,674 - emails.email_client - INFO - Extracted 0 attachments from email b'4605'
+2025-09-25 16:01:48,675 - emails.email_client - INFO - Successfully parsed email: “software engineer”: M365Connect - Internship Opportunity: Python Selenium Django Backend Developer and more
+2025-09-25 16:01:48,676 - emails.email_processor - INFO - Processing email 23/3541
+2025-09-25 16:01:49,133 - emails.email_client - INFO - Extracted 0 attachments from email b'4606'
+2025-09-25 16:01:49,134 - emails.email_client - INFO - Successfully parsed email: Latest Updates – Resources You Don’t Want to Miss!
+2025-09-25 16:01:49,135 - emails.email_processor - INFO - Processing email 24/3541
+2025-09-25 16:01:49,605 - emails.email_client - INFO - Extracted 0 attachments from email b'4607'
+2025-09-25 16:01:49,606 - emails.email_client - INFO - Successfully parsed email: Scan anything and easily convert to PDF - for free
+2025-09-25 16:01:49,606 - emails.email_processor - INFO - Processing email 25/3541
+2025-09-25 16:01:50,056 - emails.email_client - INFO - Extracted 0 attachments from email b'4608'
+2025-09-25 16:01:50,057 - emails.email_client - INFO - Successfully parsed email: The Christmas Sale Is Upon Us!
+2025-09-25 16:01:50,057 - emails.email_processor - INFO - Processing email 26/3541
+2025-09-25 16:01:50,463 - emails.email_client - INFO - Extracted 0 attachments from email b'4609'
+2025-09-25 16:01:50,472 - emails.email_processor - INFO - Processing email 27/3541
+2025-09-25 16:01:50,938 - emails.email_client - INFO - Extracted 0 attachments from email b'4610'
+2025-09-25 16:01:50,939 - emails.email_client - INFO - Successfully parsed email: Ready to write your career success story?
+2025-09-25 16:01:50,940 - emails.email_processor - INFO - Processing email 28/3541
+2025-09-25 16:01:51,544 - emails.email_client - INFO - Extracted 0 attachments from email b'4611'
+2025-09-25 16:01:51,544 - emails.email_client - INFO - Successfully parsed email: Why did Nokia fail?
+2025-09-25 16:01:51,545 - emails.email_processor - INFO - Processing email 29/3541
+2025-09-25 16:01:51,979 - emails.email_client - INFO - Extracted 0 attachments from email b'4612'
+2025-09-25 16:01:51,980 - emails.email_client - INFO - Successfully parsed email: kelly Shape the Future of AI in Your Industry with 1 click
+2025-09-25 16:01:51,981 - emails.email_processor - INFO - Processing email 30/3541
+2025-09-25 16:01:52,433 - emails.email_client - INFO - Extracted 0 attachments from email b'4613'
+2025-09-25 16:01:52,434 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Braintrust - Coders - AI Training [Remote] and more
+2025-09-25 16:01:52,436 - emails.email_processor - INFO - Processing email 31/3541
+2025-09-25 16:01:52,871 - emails.email_client - INFO - Extracted 0 attachments from email b'4614'
+2025-09-25 16:01:52,872 - emails.email_client - INFO - Successfully parsed email: Xmas Sale: Festive Deals You Can't Miss!
+2025-09-25 16:01:52,872 - emails.email_processor - INFO - Processing email 32/3541
+2025-09-25 16:01:53,294 - emails.email_client - INFO - Extracted 0 attachments from email b'4615'
+2025-09-25 16:01:53,295 - emails.email_client - INFO - Successfully parsed email: Get an Extra 10% Off This Cyber Week!
+
+2025-09-25 16:01:53,295 - emails.email_processor - INFO - Processing email 33/3541
+2025-09-25 16:01:53,716 - emails.email_client - INFO - Extracted 0 attachments from email b'4616'
+2025-09-25 16:01:53,716 - emails.email_client - INFO - Successfully parsed email: Build job-ready skills, anywhere
+2025-09-25 16:01:53,717 - emails.email_processor - INFO - Processing email 34/3541
+2025-09-25 16:01:54,148 - emails.email_client - INFO - Extracted 0 attachments from email b'4617'
+2025-09-25 16:01:54,149 - emails.email_client - INFO - Successfully parsed email: Do your best work with your team | pdfFiller Organizations
+2025-09-25 16:01:54,149 - emails.email_processor - INFO - Processing email 35/3541
+2025-09-25 16:01:54,570 - emails.email_client - INFO - Extracted 0 attachments from email b'4618'
+2025-09-25 16:01:54,591 - emails.email_processor - INFO - Processing email 36/3541
+2025-09-25 16:01:55,209 - emails.email_client - INFO - Extracted 0 attachments from email b'4619'
+2025-09-25 16:01:55,209 - emails.email_client - INFO - Successfully parsed email: These jobs would be a good match for you Kelly
+2025-09-25 16:01:55,210 - emails.email_processor - INFO - Processing email 37/3541
+2025-09-25 16:01:55,641 - emails.email_client - INFO - Extracted 0 attachments from email b'4620'
+2025-09-25 16:01:55,642 - emails.email_client - INFO - Successfully parsed email: Wallpaper for Kellynyachiro
+2025-09-25 16:01:55,642 - emails.email_processor - INFO - Processing email 38/3541
+2025-09-25 16:01:56,114 - emails.email_client - INFO - Extracted 0 attachments from email b'4621'
+2025-09-25 16:01:56,114 - emails.email_client - INFO - Successfully parsed email: Nowoh Tutoring is hiring a Content Writer
+2025-09-25 16:01:56,115 - emails.email_processor - INFO - Processing email 39/3541
+2025-09-25 16:01:56,554 - emails.email_client - INFO - Extracted 0 attachments from email b'4622'
+2025-09-25 16:01:56,555 - emails.email_client - INFO - Successfully parsed email: Indulge in a Festive Sarova Experience
+2025-09-25 16:01:56,555 - emails.email_processor - INFO - Processing email 40/3541
+2025-09-25 16:01:57,039 - emails.email_client - INFO - Extracted 0 attachments from email b'4623'
+2025-09-25 16:01:57,040 - emails.email_client - INFO - Successfully parsed email: OTP
+2025-09-25 16:01:57,040 - emails.email_processor - INFO - Processing email 41/3541
+2025-09-25 16:01:57,624 - emails.email_client - INFO - Extracted 0 attachments from email b'4624'
+2025-09-25 16:01:57,625 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Business Web Solutions (India) - Web Development Intern - Lagos and more
+2025-09-25 16:01:57,625 - emails.email_processor - INFO - Processing email 42/3541
+2025-09-25 16:01:58,088 - emails.email_client - INFO - Extracted 0 attachments from email b'4625'
+2025-09-25 16:01:58,089 - emails.email_client - INFO - Successfully parsed email: “software engineer”: micro1 Web Developer and more
+2025-09-25 16:01:58,090 - emails.email_processor - INFO - Processing email 43/3541
+2025-09-25 16:01:58,516 - emails.email_client - INFO - Extracted 0 attachments from email b'4626'
+2025-09-25 16:01:58,525 - emails.email_processor - INFO - Processing email 44/3541
+2025-09-25 16:01:59,074 - emails.email_client - INFO - Extracted 0 attachments from email b'4627'
+2025-09-25 16:01:59,075 - emails.email_client - INFO - Successfully parsed email: kelly, Alex Mera has a new post out now
+2025-09-25 16:01:59,076 - emails.email_processor - INFO - Processing email 45/3541
+2025-09-25 16:01:59,577 - emails.email_client - INFO - Extracted 0 attachments from email b'4628'
+2025-09-25 16:01:59,578 - emails.email_client - INFO - Successfully parsed email: kellynyachiro, kutana kwa matukio uliyokosa
+2025-09-25 16:01:59,579 - emails.email_processor - INFO - Processing email 46/3541
+2025-09-25 16:02:00,040 - emails.email_client - INFO - Extracted 0 attachments from email b'4629'
+2025-09-25 16:02:00,040 - emails.email_client - INFO - Successfully parsed email: Organize your documents for easy navigation
+2025-09-25 16:02:00,041 - emails.email_processor - INFO - Processing email 47/3541
+2025-09-25 16:02:04,776 - emails.email_client - INFO - Extracted 0 attachments from email b'4630'
+2025-09-25 16:02:04,777 - emails.email_client - INFO - Successfully parsed email: Daily Job Alert: Software Engineer and 2 more matches!
+2025-09-25 16:02:04,778 - emails.email_processor - INFO - Processing email 48/3541
+2025-09-25 16:02:05,601 - emails.email_client - INFO - Extracted 0 attachments from email b'4631'
+2025-09-25 16:02:05,601 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Tier Data Limited - Junior Full Stack Developer and more
+2025-09-25 16:02:05,602 - emails.email_processor - INFO - Processing email 49/3541
+2025-09-25 16:02:06,421 - emails.email_client - INFO - Extracted 0 attachments from email b'4632'
+2025-09-25 16:02:06,422 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Tier Data Limited - Junior Full Stack Developer and more
+2025-09-25 16:02:06,423 - emails.email_processor - INFO - Processing email 50/3541
+2025-09-25 16:02:06,882 - emails.email_client - INFO - Extracted 0 attachments from email b'4633'
+2025-09-25 16:02:07,420 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 16:02:07,420 - __main__ - INFO - Processing completed. Processed 1 emails
+2025-09-25 16:02:07,427 - __main__ - INFO -   Attachments: 0
+2025-09-25 16:02:07,427 - __main__ - INFO -   Claim Number: YOUR
+2025-09-25 16:02:07,428 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_YOUR_20250925_160136.pdf
+2025-09-25 16:36:10,302 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 16:36:10,304 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 16:36:10,305 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 16:36:11,058 - emails.email_client - INFO - SSL connection established
+2025-09-25 16:36:11,426 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 16:36:11,683 - emails.email_client - INFO - Selected folder 'INBOX' with 8492 messages
+2025-09-25 16:36:11,899 - emails.email_client - INFO - Selected folder 'INBOX' with 8492 messages
+2025-09-25 16:36:11,899 - emails.email_client - INFO - Searching emails with criteria: UNSEEN
+2025-09-25 16:36:12,247 - emails.email_client - INFO - Found 3490 emails matching criteria
+2025-09-25 16:36:12,248 - emails.email_processor - INFO - Processing email 1/3490
+2025-09-25 16:36:13,016 - emails.email_client - INFO - Extracted 0 attachments from email b'4634'
+2025-09-25 16:36:13,016 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Codex Solutions - Web Developer and more
+2025-09-25 16:36:13,017 - emails.email_processor - INFO - Processing email 2/3490
+2025-09-25 16:36:13,604 - emails.email_client - INFO - Extracted 0 attachments from email b'4635'
+2025-09-25 16:36:13,605 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Canonical Group Limited - Graduate/Associate Software Engineer - Build & Release Infrastructure and more
+2025-09-25 16:36:13,607 - emails.email_processor - INFO - Processing email 3/3490
+2025-09-25 16:36:14,131 - emails.email_client - INFO - Extracted 0 attachments from email b'4636'
+2025-09-25 16:36:14,131 - emails.email_client - INFO - Successfully parsed email: Share request for "Untitled spreadsheet"
+2025-09-25 16:36:14,132 - emails.email_processor - INFO - Processing email 4/3490
+2025-09-25 16:36:14,623 - emails.email_client - INFO - Extracted 0 attachments from email b'4637'
+2025-09-25 16:36:14,625 - emails.email_client - INFO - Successfully parsed email: Share request for "Untitled spreadsheet"
+2025-09-25 16:36:14,627 - emails.email_processor - INFO - Processing email 5/3490
+2025-09-25 16:36:15,089 - emails.email_client - INFO - Extracted 0 attachments from email b'4638'
+2025-09-25 16:36:15,090 - emails.email_client - INFO - Successfully parsed email: Prepare for your next career move
+2025-09-25 16:36:15,092 - emails.email_processor - INFO - Processing email 6/3490
+2025-09-25 16:36:15,570 - emails.email_client - INFO - Extracted 0 attachments from email b'4639'
+2025-09-25 16:36:15,572 - emails.email_client - INFO - Successfully parsed email: Quote to see how many discounts you qualify for xnrvd
+2025-09-25 16:36:15,578 - emails.email_processor - INFO - Processing email 7/3490
+2025-09-25 16:36:16,317 - emails.email_client - INFO - Extracted 0 attachments from email b'4640'
+2025-09-25 16:36:16,317 - emails.email_client - INFO - Successfully parsed email: Work opportunities for Youth with In-Demand Digital Skills!
+2025-09-25 16:36:16,318 - emails.email_processor - INFO - Processing email 8/3490
+2025-09-25 16:36:16,835 - emails.email_client - INFO - Extracted 0 attachments from email b'4641'
+2025-09-25 16:36:16,835 - emails.email_client - INFO - Successfully parsed email: Closing soon: Kelly, don't miss these closing opportunities!
+2025-09-25 16:36:16,836 - emails.email_processor - INFO - Processing email 9/3490
+2025-09-25 16:36:17,444 - emails.email_client - INFO - Extracted 0 attachments from email b'4642'
+2025-09-25 16:36:17,445 - emails.email_client - INFO - Successfully parsed email: “software engineer”: SkyeStudio - (Not-Paid Internship) FullStack Software Developer and more
+2025-09-25 16:36:17,446 - emails.email_processor - INFO - Processing email 10/3490
+2025-09-25 16:36:18,087 - emails.email_client - INFO - Extracted 0 attachments from email b'4643'
+2025-09-25 16:36:18,088 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Refonte Technologies - AI & Data Engineering Study & Internship and more
+2025-09-25 16:36:18,089 - emails.email_processor - INFO - Processing email 11/3490
+2025-09-25 16:36:18,843 - emails.email_client - INFO - Extracted 0 attachments from email b'4644'
+2025-09-25 16:36:18,844 - emails.email_client - INFO - Successfully parsed email: kelly, follow Swagatika Satapathy - Assistant Manager at Jindal
+ Steel & Power Ltd.
+2025-09-25 16:36:18,845 - emails.email_processor - INFO - Processing email 12/3490
+2025-09-25 16:36:19,423 - emails.email_client - INFO - Extracted 0 attachments from email b'4645'
+2025-09-25 16:36:19,424 - emails.email_client - INFO - Successfully parsed email: The Grand Finale: $10,000 Hackathon Showdown Tomorrow!
+2025-09-25 16:36:19,424 - emails.email_processor - INFO - Processing email 13/3490
+2025-09-25 16:36:20,017 - emails.email_client - INFO - Extracted 0 attachments from email b'4647'
+2025-09-25 16:36:20,018 - emails.email_client - INFO - Successfully parsed email: IEEE membership pays for itself
+2025-09-25 16:36:20,020 - emails.email_processor - INFO - Processing email 14/3490
+2025-09-25 16:36:20,571 - emails.email_client - INFO - Extracted 0 attachments from email b'4648'
+2025-09-25 16:36:20,594 - emails.email_processor - INFO - Processing email 15/3490
+2025-09-25 16:36:21,344 - emails.email_client - INFO - Extracted 0 attachments from email b'4649'
+2025-09-25 16:36:21,360 - emails.email_processor - INFO - Processing email 16/3490
+2025-09-25 16:36:22,367 - emails.email_client - INFO - Extracted 0 attachments from email b'4650'
+2025-09-25 16:36:22,368 - emails.email_client - INFO - Successfully parsed email: Make the holidays stress-free with self-service payroll
+2025-09-25 16:36:22,369 - emails.email_processor - INFO - Processing email 17/3490
+2025-09-25 16:36:23,419 - emails.email_client - INFO - Extracted 0 attachments from email b'4651'
+2025-09-25 16:36:23,420 - emails.email_client - INFO - Successfully parsed email: will you do it?
+2025-09-25 16:36:23,420 - emails.email_processor - INFO - Processing email 18/3490
+2025-09-25 16:36:23,991 - emails.email_client - INFO - Extracted 0 attachments from email b'4652'
+2025-09-25 16:36:23,992 - emails.email_client - INFO - Successfully parsed email: Reminder: Mega Hackathon Livestream Starts Soon!
+2025-09-25 16:36:23,993 - emails.email_processor - INFO - Processing email 19/3490
+2025-09-25 16:36:24,622 - emails.email_client - INFO - Extracted 0 attachments from email b'4653'
+2025-09-25 16:36:24,622 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Talent Connect Group (TCG) - Full Stack Engineer and more
+2025-09-25 16:36:24,623 - emails.email_processor - INFO - Processing email 20/3490
+2025-09-25 16:36:25,218 - emails.email_client - INFO - Extracted 0 attachments from email b'4654'
+2025-09-25 16:36:25,219 - emails.email_client - INFO - Successfully parsed email: “software engineer”: GIZE PLC - Software Engineer Internship and more
+2025-09-25 16:36:25,220 - emails.email_processor - INFO - Processing email 21/3490
+2025-09-25 16:36:25,680 - emails.email_client - INFO - Extracted 0 attachments from email b'4655'
+2025-09-25 16:36:25,681 - emails.email_client - INFO - Successfully parsed email: Your latest Oracle jobs
+2025-09-25 16:36:25,681 - emails.email_processor - INFO - Processing email 22/3490
+2025-09-25 16:36:26,207 - emails.email_client - INFO - Extracted 0 attachments from email b'4656'
+2025-09-25 16:36:26,217 - emails.email_processor - INFO - Processing email 23/3490
+2025-09-25 16:36:26,657 - emails.email_client - INFO - Extracted 0 attachments from email b'4657'
+2025-09-25 16:36:26,658 - emails.email_client - INFO - Successfully parsed email: Experience the ultimate document management suite
+2025-09-25 16:36:26,659 - emails.email_processor - INFO - Processing email 24/3490
+2025-09-25 16:36:27,125 - emails.email_client - INFO - Extracted 0 attachments from email b'4658'
+2025-09-25 16:36:27,126 - emails.email_client - INFO - Successfully parsed email: Kelly, want to continue receiving job alerts for Software Engineer
+ in Africa?
+2025-09-25 16:36:27,127 - emails.email_processor - INFO - Processing email 25/3490
+2025-09-25 16:36:27,649 - emails.email_client - INFO - Extracted 0 attachments from email b'4660'
+2025-09-25 16:36:27,649 - emails.email_client - INFO - Successfully parsed email: “software engineer”: micro1 - Web Developer and more
+2025-09-25 16:36:27,650 - emails.email_processor - INFO - Processing email 26/3490
+2025-09-25 16:36:28,289 - emails.email_client - INFO - Extracted 0 attachments from email b'4661'
+2025-09-25 16:36:28,289 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Talent Africa - Software Coding-AI Training Engineer x 10 and more
+2025-09-25 16:36:28,290 - emails.email_processor - INFO - Processing email 27/3490
+2025-09-25 16:36:28,719 - emails.email_client - INFO - Extracted 0 attachments from email b'4662'
+2025-09-25 16:36:28,720 - emails.email_client - INFO - Successfully parsed email: Get It done quicker: edit, organise, fill and sign
+2025-09-25 16:36:28,721 - emails.email_processor - INFO - Processing email 28/3490
+2025-09-25 16:36:29,153 - emails.email_client - INFO - Extracted 0 attachments from email b'4663'
+2025-09-25 16:36:29,154 - emails.email_client - INFO - Successfully parsed email: Mike J Lucas MBA recently posted
+2025-09-25 16:36:29,155 - emails.email_processor - INFO - Processing email 29/3490
+2025-09-25 16:36:29,673 - emails.email_client - INFO - Extracted 0 attachments from email b'4664'
+2025-09-25 16:36:29,681 - emails.email_processor - INFO - Processing email 30/3490
+2025-09-25 16:36:30,467 - emails.email_client - INFO - Extracted 0 attachments from email b'4665'
+2025-09-25 16:36:30,467 - emails.email_client - INFO - Successfully parsed email: How do I make 1,000 dollars a day on Instagram?
+2025-09-25 16:36:30,468 - emails.email_processor - INFO - Processing email 31/3490
+2025-09-25 16:36:30,980 - emails.email_client - INFO - Extracted 0 attachments from email b'4666'
+2025-09-25 16:36:30,980 - emails.email_client - INFO - Successfully parsed email: Kellynyachiro, you have a good eye
+2025-09-25 16:36:30,981 - emails.email_processor - INFO - Processing email 32/3490
+2025-09-25 16:36:31,438 - emails.email_client - INFO - Extracted 0 attachments from email b'4667'
+2025-09-25 16:36:31,439 - emails.email_client - INFO - Successfully parsed email: HappyJamhuri Day
+2025-09-25 16:36:31,439 - emails.email_processor - INFO - Processing email 33/3490
+2025-09-25 16:36:32,025 - emails.email_client - INFO - Extracted 0 attachments from email b'4668'
+2025-09-25 16:36:32,026 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Reality AI Lab - Entry Level Software Engineer and more
+2025-09-25 16:36:32,028 - emails.email_processor - INFO - Processing email 34/3490
+2025-09-25 16:36:32,628 - emails.email_client - INFO - Extracted 0 attachments from email b'4669'
+2025-09-25 16:36:32,628 - emails.email_client - INFO - Successfully parsed email: “software engineer”: micro1 Web Developer and more
+2025-09-25 16:36:32,629 - emails.email_processor - INFO - Processing email 35/3490
+2025-09-25 16:36:33,302 - emails.email_client - INFO - Extracted 0 attachments from email b'4670'
+2025-09-25 16:36:33,312 - emails.email_client - INFO - Successfully parsed email: Experience the Power of Kingston FURY! 
+2025-09-25 16:36:33,313 - emails.email_processor - INFO - Processing email 36/3490
+2025-09-25 16:36:33,883 - emails.email_client - INFO - Extracted 0 attachments from email b'4671'
+2025-09-25 16:36:33,884 - emails.email_client - INFO - Successfully parsed email: You have 1 new message
+2025-09-25 16:36:33,885 - emails.email_processor - INFO - Processing email 37/3490
+2025-09-25 16:36:34,322 - emails.email_client - INFO - Extracted 0 attachments from email b'4672'
+2025-09-25 16:36:34,323 - emails.email_client - INFO - Successfully parsed email: Save up to 30% before 2024 is over
+2025-09-25 16:36:34,324 - emails.email_processor - INFO - Processing relevant email: Save up to 30% before 2024 is over
+2025-09-25 16:36:34,451 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_YOUR_20250925_163634.txt
+2025-09-25 16:36:34,453 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_YOUR_20250925_163634.pdf
+2025-09-25 16:36:34,454 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_YOUR_20250925_163634.pdf
+2025-09-25 16:36:34,734 - emails.email_processor - INFO - Successfully processed email b'4672' with full content extraction
+2025-09-25 16:36:34,735 - emails.email_processor - INFO - Processing email 38/3490
+2025-09-25 16:36:35,159 - emails.email_client - INFO - Extracted 0 attachments from email b'4673'
+2025-09-25 16:36:35,160 - emails.email_client - INFO - Successfully parsed email: Here’s
+2025-09-25 16:36:35,161 - emails.email_processor - INFO - Processing email 39/3490
+2025-09-25 16:36:35,643 - emails.email_client - INFO - Extracted 0 attachments from email b'4674'
+2025-09-25 16:36:35,644 - emails.email_client - INFO - Successfully parsed email: Claims Due? Member please verify zxdlq
+2025-09-25 16:36:35,647 - emails.email_processor - INFO - Processing relevant email: Claims Due? Member please verify zxdlq
+2025-09-25 16:36:35,965 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_S_20250925_163635.txt
+2025-09-25 16:36:35,966 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_163635.pdf
+2025-09-25 16:36:35,966 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_163635.pdf
+2025-09-25 16:36:36,250 - emails.email_processor - INFO - Successfully processed email b'4674' with full content extraction
+2025-09-25 16:36:36,251 - emails.email_processor - INFO - Processing email 40/3490
+2025-09-25 16:36:36,697 - emails.email_client - INFO - Extracted 0 attachments from email b'4675'
+2025-09-25 16:36:36,697 - emails.email_client - INFO - Successfully parsed email: Security alert for chanainyachiro@gmail.com
+2025-09-25 16:36:36,698 - emails.email_processor - INFO - Processing email 41/3490
+2025-09-25 16:36:37,277 - emails.email_client - INFO - Extracted 0 attachments from email b'4677'
+2025-09-25 16:36:37,278 - emails.email_client - INFO - Successfully parsed email: Software Engineering: Internship Opportunities role at Microsoft:
+ Actively recruiting
+2025-09-25 16:36:37,279 - emails.email_processor - INFO - Processing email 42/3490
+2025-09-25 16:36:37,849 - emails.email_client - INFO - Extracted 0 attachments from email b'4678'
+2025-09-25 16:36:37,850 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Microsoft - Software Engineering: Internship Opportunities and more
+2025-09-25 16:36:37,852 - emails.email_processor - INFO - Processing email 43/3490
+2025-09-25 16:36:38,533 - emails.email_client - INFO - Extracted 0 attachments from email b'4679'
+2025-09-25 16:36:38,534 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Microsoft - Software Engineering: Internship Opportunities and more
+2025-09-25 16:36:38,535 - emails.email_processor - INFO - Processing email 44/3490
+2025-09-25 16:36:38,996 - emails.email_client - INFO - Extracted 0 attachments from email b'4680'
+2025-09-25 16:36:38,997 - emails.email_client - INFO - Successfully parsed email: kelly, Build the Future of AI with Gemini 2.0's agentic capabilities
+2025-09-25 16:36:38,997 - emails.email_processor - INFO - Processing email 45/3490
+2025-09-25 16:36:39,436 - emails.email_client - INFO - Extracted 0 attachments from email b'4681'
+2025-09-25 16:36:39,443 - emails.email_processor - INFO - Processing email 46/3490
+2025-09-25 16:36:40,132 - emails.email_client - INFO - Extracted 0 attachments from email b'4682'
+2025-09-25 16:36:40,133 - emails.email_client - INFO - Successfully parsed email: Evelyn Akurut recently posted
+2025-09-25 16:36:40,134 - emails.email_processor - INFO - Processing email 47/3490
+2025-09-25 16:36:40,843 - emails.email_client - INFO - Extracted 0 attachments from email b'4683'
+2025-09-25 16:36:40,844 - emails.email_client - INFO - Successfully parsed email: “software engineer”: -WorkEthix - Frontend Developer and more
+2025-09-25 16:36:40,845 - emails.email_processor - INFO - Processing email 48/3490
+2025-09-25 16:36:41,318 - emails.email_client - INFO - Extracted 0 attachments from email b'4684'
+2025-09-25 16:36:41,319 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Letsintern.in - Web Developer Intern - Abuja and more
+2025-09-25 16:36:41,320 - emails.email_processor - INFO - Processing email 49/3490
+2025-09-25 16:36:41,763 - emails.email_client - INFO - Extracted 0 attachments from email b'4685'
+2025-09-25 16:36:41,776 - emails.email_processor - INFO - Processing email 50/3490
+2025-09-25 16:36:42,317 - emails.email_client - INFO - Extracted 0 attachments from email b'4686'
+2025-09-25 16:36:42,318 - emails.email_client - INFO - Successfully parsed email: which industry & use case kelly?
+2025-09-25 16:36:42,775 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 16:36:42,776 - __main__ - INFO - Processing completed. Processed 2 emails
+2025-09-25 16:36:42,781 - __main__ - INFO -   Attachments: 0
+2025-09-25 16:36:42,781 - __main__ - INFO -   Claim Number: YOUR
+2025-09-25 16:36:42,782 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_YOUR_20250925_163634.pdf
+2025-09-25 16:36:42,790 - __main__ - INFO -   Attachments: 0
+2025-09-25 16:36:42,790 - __main__ - INFO -   Claim Number: S
+2025-09-25 16:36:42,790 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_163635.pdf
+2025-09-25 16:37:33,456 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 16:37:33,458 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 16:37:33,458 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 16:37:34,177 - emails.email_client - INFO - SSL connection established
+2025-09-25 16:37:34,466 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 16:37:34,723 - emails.email_client - INFO - Selected folder 'INBOX' with 8492 messages
+2025-09-25 16:37:34,961 - emails.email_client - INFO - Selected folder 'INBOX' with 8492 messages
+2025-09-25 16:37:34,962 - emails.email_client - INFO - Searching emails with criteria: UNSEEN
+2025-09-25 16:37:35,281 - emails.email_client - INFO - Found 3440 emails matching criteria
+2025-09-25 16:37:35,283 - emails.email_processor - INFO - Processing email 1/3440
+2025-09-25 16:37:35,993 - emails.email_client - INFO - Extracted 0 attachments from email b'4687'
+2025-09-25 16:37:35,993 - emails.email_client - INFO - Successfully parsed email: “software engineer”: EvMak Tanzania Ltd - Software Engineer and more
+2025-09-25 16:37:35,994 - emails.email_processor - INFO - Processing email 2/3440
+2025-09-25 16:37:36,599 - emails.email_client - INFO - Extracted 0 attachments from email b'4688'
+2025-09-25 16:37:36,600 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Rotate Digital - Website Developer and more
+2025-09-25 16:37:36,601 - emails.email_processor - INFO - Processing email 3/3440
+2025-09-25 16:37:37,051 - emails.email_client - INFO - Extracted 0 attachments from email b'4689'
+2025-09-25 16:37:37,066 - emails.email_processor - INFO - Processing email 4/3440
+2025-09-25 16:37:37,568 - emails.email_client - INFO - Extracted 0 attachments from email b'4690'
+2025-09-25 16:37:37,569 - emails.email_client - INFO - Successfully parsed email: Harness the power of social media to grow your career
+2025-09-25 16:37:37,570 - emails.email_processor - INFO - Processing email 5/3440
+2025-09-25 16:37:38,107 - emails.email_client - INFO - Extracted 0 attachments from email b'4691'
+2025-09-25 16:37:38,108 - emails.email_client - INFO - Successfully parsed email: Closing soon: Kelly, don't miss these closing opportunities!
+2025-09-25 16:37:38,108 - emails.email_processor - INFO - Processing email 6/3440
+2025-09-25 16:37:38,819 - emails.email_client - INFO - Extracted 0 attachments from email b'4692'
+2025-09-25 16:37:38,820 - emails.email_client - INFO - Successfully parsed email: Capture the best ideas with whiteboards
+2025-09-25 16:37:38,821 - emails.email_processor - INFO - Processing email 7/3440
+2025-09-25 16:37:39,371 - emails.email_client - INFO - Extracted 0 attachments from email b'4693'
+2025-09-25 16:37:39,372 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Lumenalta (formerly Clevertech) - React Developer - Mid Level and more
+2025-09-25 16:37:39,373 - emails.email_processor - INFO - Processing email 8/3440
+2025-09-25 16:37:39,953 - emails.email_client - INFO - Extracted 0 attachments from email b'4694'
+2025-09-25 16:37:39,954 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Reality AI Lab - Junior Software Engineer and more
+2025-09-25 16:37:39,955 - emails.email_processor - INFO - Processing email 9/3440
+2025-09-25 16:37:40,528 - emails.email_client - INFO - Extracted 0 attachments from email b'4695'
+2025-09-25 16:37:40,528 - emails.email_client - INFO - Successfully parsed email: Talk to us about your Experience.
+2025-09-25 16:37:40,529 - emails.email_processor - INFO - Processing email 10/3440
+2025-09-25 16:37:40,976 - emails.email_client - INFO - Extracted 0 attachments from email b'4696'
+2025-09-25 16:37:40,977 - emails.email_client - INFO - Successfully parsed email: Join Us for the Global Town Hall 3.0 – Christmas Edition!
+2025-09-25 16:37:40,978 - emails.email_processor - INFO - Processing email 11/3440
+2025-09-25 16:37:41,405 - emails.email_client - INFO - Extracted 0 attachments from email b'4697'
+2025-09-25 16:37:41,405 - emails.email_client - INFO - Successfully parsed email: kelly, follow Raj Vikramaditya - Software Engineer III at Google
+2025-09-25 16:37:41,406 - emails.email_processor - INFO - Processing email 12/3440
+2025-09-25 16:37:41,978 - emails.email_client - INFO - Extracted 0 attachments from email b'4698'
+2025-09-25 16:37:41,978 - emails.email_client - INFO - Successfully parsed email: Engage, Collaborate and Grow with IEEE
+2025-09-25 16:37:41,979 - emails.email_processor - INFO - Processing email 13/3440
+2025-09-25 16:37:42,475 - emails.email_client - INFO - Extracted 0 attachments from email b'4699'
+2025-09-25 16:37:42,475 - emails.email_client - INFO - Successfully parsed email: Daily Business Tips recently posted
+2025-09-25 16:37:42,476 - emails.email_processor - INFO - Processing email 14/3440
+2025-09-25 16:37:42,943 - emails.email_client - INFO - Extracted 0 attachments from email b'4700'
+2025-09-25 16:37:42,943 - emails.email_client - INFO - Successfully parsed email: Daily Job Alert: Assistant Manager, Digital and Integration Specialist and 2 more matches!
+2025-09-25 16:37:42,944 - emails.email_processor - INFO - Processing email 15/3440
+2025-09-25 16:37:43,599 - emails.email_client - INFO - Extracted 0 attachments from email b'4701'
+2025-09-25 16:37:43,599 - emails.email_client - INFO - Successfully parsed email: Your latest Oracle jobs
+2025-09-25 16:37:43,600 - emails.email_processor - INFO - Processing email 16/3440
+2025-09-25 16:37:44,228 - emails.email_client - INFO - Extracted 0 attachments from email b'4702'
+2025-09-25 16:37:44,228 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Procore Technologies - Intern, QA Engineer and more
+2025-09-25 16:37:44,229 - emails.email_processor - INFO - Processing email 17/3440
+2025-09-25 16:37:44,999 - emails.email_client - INFO - Extracted 0 attachments from email b'4703'
+2025-09-25 16:37:45,000 - emails.email_client - INFO - Successfully parsed email: “software engineer”: A & H Solutions - Full Stack Engineer with Expertise in React/ Next.js and Node.js and more
+2025-09-25 16:37:45,001 - emails.email_processor - INFO - Processing email 18/3440
+2025-09-25 16:37:45,515 - emails.email_client - INFO - Extracted 0 attachments from email b'4704'
+2025-09-25 16:37:45,516 - emails.email_client - INFO - Successfully parsed email: Introducing Gemini 2.0, PaliGemma2, plus Android XR and more
+2025-09-25 16:37:45,517 - emails.email_processor - INFO - Processing email 19/3440
+2025-09-25 16:37:47,756 - emails.email_client - INFO - Extracted 0 attachments from email b'4707'
+2025-09-25 16:37:47,756 - emails.email_client - INFO - Successfully parsed email: kelly, add Siraj Wahhaj - Freelance
+2025-09-25 16:37:47,757 - emails.email_processor - INFO - Processing email 20/3440
+2025-09-25 16:37:48,331 - emails.email_client - INFO - Extracted 0 attachments from email b'4708'
+2025-09-25 16:37:48,332 - emails.email_client - INFO - Successfully parsed email: Act now to claim up to 30% off
+2025-09-25 16:37:48,333 - emails.email_processor - INFO - Processing relevant email: Act now to claim up to 30% off
+2025-09-25 16:37:48,447 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_UP_20250925_163748.txt
+2025-09-25 16:37:48,448 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_UP_20250925_163748.pdf
+2025-09-25 16:37:48,448 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_UP_20250925_163748.pdf
+2025-09-25 16:37:48,826 - emails.email_processor - INFO - Successfully processed email b'4708' with full content extraction
+2025-09-25 16:37:48,826 - emails.email_processor - INFO - Processing email 21/3440
+2025-09-25 16:37:49,333 - emails.email_client - INFO - Extracted 0 attachments from email b'4709'
+2025-09-25 16:37:49,334 - emails.email_client - INFO - Successfully parsed email: [New] Amjad on Lenny’s Podcast & One More Surprise
+2025-09-25 16:37:49,334 - emails.email_processor - INFO - Processing email 22/3440
+2025-09-25 16:37:50,272 - emails.email_client - INFO - Extracted 0 attachments from email b'4710'
+2025-09-25 16:37:50,273 - emails.email_client - INFO - Successfully parsed email: Career for Kellynyachiro
+2025-09-25 16:37:50,274 - emails.email_processor - INFO - Processing email 23/3440
+2025-09-25 16:37:50,979 - emails.email_client - INFO - Extracted 0 attachments from email b'4711'
+2025-09-25 16:37:50,980 - emails.email_client - INFO - Successfully parsed email: Software Engineering: Internship Opportunities role at Microsoft:
+ Actively recruiting
+2025-09-25 16:37:50,981 - emails.email_processor - INFO - Processing email 24/3440
+2025-09-25 16:37:51,794 - emails.email_client - INFO - Extracted 0 attachments from email b'4712'
+2025-09-25 16:37:51,794 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Decode Africa - Volunteer Web Developer and more
+2025-09-25 16:37:51,795 - emails.email_processor - INFO - Processing email 25/3440
+2025-09-25 16:37:52,414 - emails.email_client - INFO - Extracted 0 attachments from email b'4713'
+2025-09-25 16:37:52,414 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Decode Africa - Volunteer Web Developer and more
+2025-09-25 16:37:52,416 - emails.email_processor - INFO - Processing email 26/3440
+2025-09-25 16:37:53,045 - emails.email_client - INFO - Extracted 0 attachments from email b'4714'
+2025-09-25 16:37:53,045 - emails.email_client - INFO - Successfully parsed email: Get your documents into shape with just a few clicks
+2025-09-25 16:37:53,046 - emails.email_processor - INFO - Processing email 27/3440
+2025-09-25 16:37:53,611 - emails.email_client - INFO - Extracted 0 attachments from email b'4715'
+2025-09-25 16:37:53,611 - emails.email_client - INFO - Successfully parsed email: kellynyachiro, kutana kwa matukio uliyokosa
+2025-09-25 16:37:53,613 - emails.email_processor - INFO - Processing email 28/3440
+2025-09-25 16:37:54,154 - emails.email_client - INFO - Extracted 0 attachments from email b'4716'
+2025-09-25 16:37:54,155 - emails.email_client - INFO - Successfully parsed email: If you call 911 by accident and tell the operator “sorry, I didn’t mean to dial you,”...?
+2025-09-25 16:37:54,156 - emails.email_processor - INFO - Processing email 29/3440
+2025-09-25 16:37:54,862 - emails.email_client - INFO - Extracted 0 attachments from email b'4717'
+2025-09-25 16:37:54,863 - emails.email_client - INFO - Successfully parsed email: Welcome to Excelerate
+2025-09-25 16:37:54,864 - emails.email_processor - INFO - Processing email 30/3440
+2025-09-25 16:37:55,396 - emails.email_client - INFO - Extracted 0 attachments from email b'4718'
+2025-09-25 16:37:55,396 - emails.email_client - INFO - Successfully parsed email: Your Next Steps for AI in Health Care
+2025-09-25 16:37:55,397 - emails.email_processor - INFO - Processing email 31/3440
+2025-09-25 16:37:56,272 - emails.email_client - INFO - Extracted 0 attachments from email b'4719'
+2025-09-25 16:37:56,272 - emails.email_client - INFO - Successfully parsed email: “software engineer”: micro1 - Web Developer and more
+2025-09-25 16:37:56,273 - emails.email_processor - INFO - Processing email 32/3440
+2025-09-25 16:37:57,124 - emails.email_client - INFO - Extracted 0 attachments from email b'4720'
+2025-09-25 16:37:57,125 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Vertex Catalyst Group - Web / App Developer - Remote and more
+2025-09-25 16:37:57,126 - emails.email_processor - INFO - Processing email 33/3440
+2025-09-25 16:37:58,040 - emails.email_client - INFO - Extracted 0 attachments from email b'4721'
+2025-09-25 16:37:58,049 - emails.email_processor - INFO - Processing email 34/3440
+2025-09-25 16:37:58,860 - emails.email_client - INFO - Extracted 0 attachments from email b'4722'
+2025-09-25 16:37:58,861 - emails.email_client - INFO - Successfully parsed email: Save 50% on Codecademy Pro
+2025-09-25 16:37:58,861 - emails.email_processor - INFO - Processing email 35/3440
+2025-09-25 16:37:59,616 - emails.email_client - INFO - Extracted 0 attachments from email b'4723'
+2025-09-25 16:37:59,617 - emails.email_client - INFO - Successfully parsed email: [Unbelievable] What They Really Want for the Holidays
+2025-09-25 16:37:59,617 - emails.email_processor - INFO - Processing email 36/3440
+2025-09-25 16:38:00,189 - emails.email_client - INFO - Extracted 0 attachments from email b'4724'
+2025-09-25 16:38:00,190 - emails.email_client - INFO - Successfully parsed email: New job opportunities at SCI Career Site
+2025-09-25 16:38:00,191 - emails.email_processor - INFO - Processing email 37/3440
+2025-09-25 16:38:00,693 - emails.email_client - INFO - Extracted 0 attachments from email b'4725'
+2025-09-25 16:38:00,693 - emails.email_client - INFO - Successfully parsed email: These jobs would be a good match for you Kelly
+2025-09-25 16:38:00,694 - emails.email_processor - INFO - Processing email 38/3440
+2025-09-25 16:38:01,333 - emails.email_client - INFO - Extracted 0 attachments from email b'4726'
+2025-09-25 16:38:01,334 - emails.email_client - INFO - Successfully parsed email: Pertom Digital is hiring a App Developer -Android &IOS
+2025-09-25 16:38:01,335 - emails.email_processor - INFO - Processing email 39/3440
+2025-09-25 16:38:01,772 - emails.email_client - INFO - Extracted 0 attachments from email b'4727'
+2025-09-25 16:38:01,773 - emails.email_client - INFO - Successfully parsed email: kelly help us help
+2025-09-25 16:38:01,774 - emails.email_processor - INFO - Processing email 40/3440
+2025-09-25 16:38:02,367 - emails.email_client - INFO - Extracted 0 attachments from email b'4728'
+2025-09-25 16:38:02,368 - emails.email_client - INFO - Successfully parsed email: “software engineer”: M-TREAT - Remote Full-Stack Software Developer - Internship(Unpaid) and more
+2025-09-25 16:38:02,368 - emails.email_processor - INFO - Processing email 41/3440
+2025-09-25 16:38:03,249 - emails.email_client - INFO - Extracted 0 attachments from email b'4729'
+2025-09-25 16:38:03,250 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Chaguoo - Software Engineer Intern and more
+2025-09-25 16:38:03,251 - emails.email_processor - INFO - Processing email 42/3440
+2025-09-25 16:38:03,906 - emails.email_client - INFO - Extracted 0 attachments from email b'4730'
+2025-09-25 16:38:03,907 - emails.email_client - INFO - Successfully parsed email: kelly, add Edward sang
+2025-09-25 16:38:03,908 - emails.email_processor - INFO - Processing email 43/3440
+2025-09-25 16:38:04,916 - emails.email_client - INFO - Extracted 0 attachments from email b'4731'
+2025-09-25 16:38:04,924 - emails.email_processor - INFO - Processing email 44/3440
+2025-09-25 16:38:05,619 - emails.email_client - INFO - Extracted 0 attachments from email b'4732'
+2025-09-25 16:38:05,620 - emails.email_client - INFO - Successfully parsed email: LinkedIn News Africa and others share their thoughts on LinkedIn
+2025-09-25 16:38:05,620 - emails.email_processor - INFO - Processing email 45/3440
+2025-09-25 16:38:06,540 - emails.email_client - INFO - Extracted 0 attachments from email b'4733'
+2025-09-25 16:38:06,541 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Microsoft - Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities and more
+2025-09-25 16:38:06,542 - emails.email_processor - INFO - Processing email 46/3440
+2025-09-25 16:38:07,383 - emails.email_client - INFO - Extracted 0 attachments from email b'4734'
+2025-09-25 16:38:07,383 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Braintrust - Front End Software Engineer (React, Next.js) and more
+2025-09-25 16:38:07,384 - emails.email_processor - INFO - Processing email 47/3440
+2025-09-25 16:38:07,947 - emails.email_client - INFO - Extracted 0 attachments from email b'4735'
+2025-09-25 16:38:07,948 - emails.email_client - INFO - Successfully parsed email: Thank You for an Incredible 2024!
+2025-09-25 16:38:07,949 - emails.email_processor - INFO - Processing email 48/3440
+2025-09-25 16:38:08,611 - emails.email_client - INFO - Extracted 0 attachments from email b'4736'
+2025-09-25 16:38:08,611 - emails.email_client - INFO - Successfully parsed email: End-of-year sale: 50% off Pro
+2025-09-25 16:38:08,612 - emails.email_processor - INFO - Processing email 49/3440
+2025-09-25 16:38:09,851 - emails.email_client - INFO - Extracted 0 attachments from email b'4737'
+2025-09-25 16:38:09,852 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Allied Technologies - PHP Developer (Core PHP & Laravel) and more
+2025-09-25 16:38:09,853 - emails.email_processor - INFO - Processing email 50/3440
+2025-09-25 16:38:10,635 - emails.email_client - INFO - Extracted 0 attachments from email b'4738'
+2025-09-25 16:38:10,636 - emails.email_client - INFO - Successfully parsed email: “software engineer”: Refonte Technologies - AI & Data Engineering Study & Internship and more
+2025-09-25 16:38:11,310 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 16:38:11,311 - __main__ - INFO - Processing completed. Processed 1 emails
+2025-09-25 16:38:11,316 - __main__ - INFO -   Attachments: 0
+2025-09-25 16:38:11,317 - __main__ - INFO -   Claim Number: UP
+2025-09-25 16:38:11,317 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_UP_20250925_163748.pdf
+2025-09-25 16:38:58,109 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 16:38:58,111 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 16:38:58,111 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 16:38:58,837 - emails.email_client - INFO - SSL connection established
+2025-09-25 16:38:59,892 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 16:39:00,356 - emails.email_client - INFO - Selected folder 'INBOX' with 8492 messages
+2025-09-25 16:39:00,950 - emails.email_client - INFO - Selected folder 'INBOX' with 8492 messages
+2025-09-25 16:39:00,950 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "Daphneymaebawork@gmail.com")
+2025-09-25 16:39:01,291 - emails.email_client - INFO - No emails found matching criteria
+2025-09-25 16:39:01,789 - emails.email_client - INFO - Selected folder 'INBOX' with 8492 messages
+2025-09-25 16:39:01,789 - emails.email_client - INFO - Searching emails with criteria: (FROM "Daphneymaebawork@gmail.com")
+2025-09-25 16:39:02,068 - emails.email_client - INFO - Found 4 emails matching criteria
+2025-09-25 16:39:02,068 - emails.email_processor - INFO - Processing email 1/4
+2025-09-25 16:39:02,398 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-25 16:39:02,399 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-25 16:39:02,400 - emails.email_processor - INFO - Processing email 2/4
+2025-09-25 16:39:07,029 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-25 16:39:07,030 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 16:39:07,031 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 16:39:19,747 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_HIIIII_20250925_163919.txt
+2025-09-25 16:39:19,747 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_163907.pdf
+2025-09-25 16:39:19,748 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_163907.pdf
+2025-09-25 16:39:20,152 - emails.email_processor - INFO - Successfully processed email b'8481' with full content extraction
+2025-09-25 16:39:20,152 - emails.email_processor - INFO - Processing email 3/4
+2025-09-25 16:39:21,493 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-25 16:39:21,493 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 16:39:21,494 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 16:39:24,002 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_CLAIM_20250925_163924_20250925_163924.txt
+2025-09-25 16:39:24,003 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_163921_20250925_163921.pdf
+2025-09-25 16:39:24,003 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_163921_20250925_163921.pdf
+2025-09-25 16:39:24,281 - emails.email_processor - INFO - Successfully processed email b'8486' with full content extraction
+2025-09-25 16:39:24,282 - emails.email_processor - INFO - Processing email 4/4
+2025-09-25 16:39:25,332 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-25 16:39:25,332 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-25 16:39:25,333 - emails.email_processor - INFO - Processing relevant email: claims
+2025-09-25 16:39:27,724 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_S_20250925_163927.txt
+2025-09-25 16:39:27,725 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_163925.pdf
+2025-09-25 16:39:27,726 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_163925.pdf
+2025-09-25 16:39:28,004 - emails.email_processor - INFO - Successfully processed email b'8490' with full content extraction
+2025-09-25 16:39:28,452 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 16:39:28,453 - __main__ - INFO - Processing completed. Processed 3 emails
+2025-09-25 16:39:28,467 - __main__ - INFO -   Attachments: 2
+2025-09-25 16:39:28,469 - __main__ - INFO -   Claim Number: HIIIII
+2025-09-25 16:39:28,469 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_163907.pdf
+2025-09-25 16:39:28,477 - __main__ - INFO -   Attachments: 1
+2025-09-25 16:39:28,478 - __main__ - INFO -   Claim Number: CLAIM_20250925_163924
+2025-09-25 16:39:28,480 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_163921_20250925_163921.pdf
+2025-09-25 16:39:28,485 - __main__ - INFO -   Attachments: 1
+2025-09-25 16:39:28,486 - __main__ - INFO -   Claim Number: S
+2025-09-25 16:39:28,486 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_163925.pdf
+2025-09-25 16:53:19,700 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 16:53:19,701 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 16:53:19,702 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 16:53:21,279 - emails.email_client - INFO - SSL connection established
+2025-09-25 16:53:22,041 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 16:53:22,284 - emails.email_client - INFO - Selected folder 'INBOX' with 8494 messages
+2025-09-25 16:53:22,514 - emails.email_client - INFO - Selected folder 'INBOX' with 8494 messages
+2025-09-25 16:53:22,515 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-25 16:53:22,775 - emails.email_client - INFO - No emails found matching criteria
+2025-09-25 16:53:23,013 - emails.email_client - INFO - Selected folder 'INBOX' with 8494 messages
+2025-09-25 16:53:23,014 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-25 16:53:23,264 - emails.email_client - INFO - Found 1 emails matching criteria
+2025-09-25 16:53:23,264 - emails.email_processor - INFO - Processing email 1/1
+2025-09-25 16:53:24,044 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-25 16:53:24,044 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-25 16:53:24,045 - emails.email_processor - INFO - Processing relevant email: claims
+2025-09-25 16:53:27,137 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_S_20250925_165327.txt
+2025-09-25 16:53:27,138 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_165324.pdf
+2025-09-25 16:53:27,138 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_165324.pdf
+2025-09-25 16:53:27,383 - emails.email_processor - INFO - Successfully processed email b'8492' with full content extraction
+2025-09-25 16:53:27,839 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 16:53:27,840 - __main__ - INFO - Processing completed. Processed 1 emails
+2025-09-25 16:53:27,855 - __main__ - INFO -   Attachments: 1
+2025-09-25 16:53:27,855 - __main__ - INFO -   Claim Number: S
+2025-09-25 16:53:27,855 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_165324.pdf
+2025-09-25 16:57:15,428 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 16:57:15,430 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 16:57:15,431 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 16:57:16,182 - emails.email_client - INFO - SSL connection established
+2025-09-25 16:57:16,521 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 16:57:16,745 - emails.email_client - INFO - Selected folder 'INBOX' with 8494 messages
+2025-09-25 16:57:16,966 - emails.email_client - INFO - Selected folder 'INBOX' with 8494 messages
+2025-09-25 16:57:16,967 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke,Daphneymaebawork@gmail.com")
+2025-09-25 16:57:17,189 - emails.email_client - INFO - No emails found matching criteria
+2025-09-25 16:57:17,406 - emails.email_client - INFO - Selected folder 'INBOX' with 8494 messages
+2025-09-25 16:57:17,407 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke,Daphneymaebawork@gmail.com")
+2025-09-25 16:57:17,619 - emails.email_client - INFO - No emails found matching criteria
+2025-09-25 16:57:17,620 - emails.email_processor - INFO - No emails found matching criteria
+2025-09-25 16:57:18,129 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 16:57:18,130 - __main__ - INFO - No emails were processed
+2025-09-25 17:02:45,071 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 17:02:45,072 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 17:02:45,073 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 17:02:45,900 - emails.email_client - INFO - SSL connection established
+2025-09-25 17:02:46,215 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 17:02:46,421 - emails.email_client - INFO - Selected folder 'INBOX' with 8494 messages
+2025-09-25 17:02:46,422 - emails.email_processor - ERROR - Error during email processing: 'sender'
+2025-09-25 17:02:46,822 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 17:02:46,823 - __main__ - INFO - No emails were processed
+2025-09-25 17:16:58,782 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 17:16:58,784 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 17:16:58,785 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 17:16:59,582 - emails.email_client - INFO - SSL connection established
+2025-09-25 17:17:00,079 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 17:17:00,326 - emails.email_client - INFO - Selected folder 'INBOX' with 8495 messages
+2025-09-25 17:17:00,327 - emails.email_processor - ERROR - Error during email processing: 'sender'
+2025-09-25 17:17:00,719 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 17:17:00,720 - __main__ - INFO - No emails were processed
+2025-09-25 17:17:57,554 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 17:17:57,556 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 17:17:57,556 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 17:17:58,255 - emails.email_client - INFO - SSL connection established
+2025-09-25 17:17:58,525 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 17:17:58,767 - emails.email_client - INFO - Selected folder 'INBOX' with 8495 messages
+2025-09-25 17:17:58,768 - emails.email_processor - ERROR - Error during email processing: 'sender'
+2025-09-25 17:17:59,278 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 17:17:59,278 - __main__ - INFO - No emails were processed
+2025-09-25 17:20:21,616 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 17:20:21,618 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 17:20:21,618 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 17:20:22,275 - emails.email_client - INFO - SSL connection established
+2025-09-25 17:20:22,839 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 17:20:23,053 - emails.email_client - INFO - Selected folder 'INBOX' with 8495 messages
+2025-09-25 17:20:23,302 - emails.email_client - INFO - Selected folder 'INBOX' with 8495 messages
+2025-09-25 17:20:23,303 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "Daphneymaebawork@gmail.com")
+2025-09-25 17:20:23,517 - emails.email_client - INFO - No emails found matching criteria
+2025-09-25 17:20:23,742 - emails.email_client - INFO - Selected folder 'INBOX' with 8495 messages
+2025-09-25 17:20:23,743 - emails.email_client - INFO - Searching emails with criteria: (FROM "Daphneymaebawork@gmail.com")
+2025-09-25 17:20:23,953 - emails.email_client - INFO - Found 4 emails matching criteria
+2025-09-25 17:20:23,953 - emails.email_processor - INFO - Processing email 1/4
+2025-09-25 17:20:24,191 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-25 17:20:24,191 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-25 17:20:24,192 - emails.email_processor - INFO - Processing email 2/4
+2025-09-25 17:20:26,685 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-25 17:20:26,686 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 17:20:26,687 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 17:20:37,638 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_HIIIII_20250925_172037.txt
+2025-09-25 17:20:37,639 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_172026.pdf
+2025-09-25 17:20:37,640 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_172026.pdf
+2025-09-25 17:20:37,875 - emails.email_processor - INFO - Successfully processed email b'8481' with full content extraction
+2025-09-25 17:20:37,876 - emails.email_processor - INFO - Processing email 3/4
+2025-09-25 17:20:38,728 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-25 17:20:38,728 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 17:20:38,729 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 17:20:41,284 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_CLAIM_20250925_172041_20250925_172041.txt
+2025-09-25 17:20:41,284 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_172038_20250925_172038.pdf
+2025-09-25 17:20:41,285 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_172038_20250925_172038.pdf
+2025-09-25 17:20:41,505 - emails.email_processor - INFO - Successfully processed email b'8486' with full content extraction
+2025-09-25 17:20:41,505 - emails.email_processor - INFO - Processing email 4/4
+2025-09-25 17:20:42,401 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-25 17:20:42,401 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-25 17:20:42,401 - emails.email_processor - INFO - Processing relevant email: claims
+2025-09-25 17:20:44,871 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_S_20250925_172044.txt
+2025-09-25 17:20:44,871 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_172042.pdf
+2025-09-25 17:20:44,872 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_172042.pdf
+2025-09-25 17:20:45,105 - emails.email_processor - INFO - Successfully processed email b'8490' with full content extraction
+2025-09-25 17:20:45,534 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 17:20:45,535 - __main__ - INFO - Processing completed. Processed 3 emails
+2025-09-25 17:20:45,548 - __main__ - INFO -   Attachments: 2
+2025-09-25 17:20:45,548 - __main__ - INFO -   Claim Number: HIIIII
+2025-09-25 17:20:45,548 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_172026.pdf
+2025-09-25 17:20:45,554 - __main__ - INFO -   Attachments: 1
+2025-09-25 17:20:45,554 - __main__ - INFO -   Claim Number: CLAIM_20250925_172041
+2025-09-25 17:20:45,555 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_172038_20250925_172038.pdf
+2025-09-25 17:20:45,560 - __main__ - INFO -   Attachments: 1
+2025-09-25 17:20:45,560 - __main__ - INFO -   Claim Number: S
+2025-09-25 17:20:45,561 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_172042.pdf
+2025-09-25 17:22:54,880 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 17:22:54,882 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 17:22:54,882 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 17:22:55,666 - emails.email_client - INFO - SSL connection established
+2025-09-25 17:22:56,177 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 17:22:56,393 - emails.email_client - INFO - Selected folder 'INBOX' with 8496 messages
+2025-09-25 17:22:56,644 - emails.email_client - INFO - Selected folder 'INBOX' with 8496 messages
+2025-09-25 17:22:56,645 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "Daphneymaebawork@gmail.com")
+2025-09-25 17:22:56,835 - emails.email_client - INFO - Found 1 emails matching criteria
+2025-09-25 17:22:56,835 - emails.email_processor - INFO - Processing email 1/1
+2025-09-25 17:22:57,600 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-25 17:22:57,600 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-25 17:22:57,601 - emails.email_processor - INFO - Processing relevant email: claims
+2025-09-25 17:22:59,994 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_S_20250925_172259.txt
+2025-09-25 17:22:59,995 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_172257.pdf
+2025-09-25 17:22:59,996 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_172257.pdf
+2025-09-25 17:23:00,219 - emails.email_processor - INFO - Successfully processed email b'8496' with full content extraction
+2025-09-25 17:23:00,736 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 17:23:00,737 - __main__ - INFO - Processing completed. Processed 1 emails
+2025-09-25 17:23:00,751 - __main__ - INFO -   Attachments: 1
+2025-09-25 17:23:00,751 - __main__ - INFO -   Claim Number: S
+2025-09-25 17:23:00,752 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_172257.pdf
+2025-09-25 17:23:54,819 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 17:23:54,821 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 17:23:54,821 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 17:23:55,620 - emails.email_client - INFO - SSL connection established
+2025-09-25 17:23:55,939 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 17:23:56,137 - emails.email_client - INFO - Selected folder 'INBOX' with 8496 messages
+2025-09-25 17:23:56,337 - emails.email_client - INFO - Selected folder 'INBOX' with 8496 messages
+2025-09-25 17:23:56,337 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "Daphneymaebawork@gmail.com")
+2025-09-25 17:23:56,542 - emails.email_client - INFO - No emails found matching criteria
+2025-09-25 17:23:56,747 - emails.email_client - INFO - Selected folder 'INBOX' with 8496 messages
+2025-09-25 17:23:56,748 - emails.email_client - INFO - Searching emails with criteria: (FROM "Daphneymaebawork@gmail.com")
+2025-09-25 17:23:56,938 - emails.email_client - INFO - Found 5 emails matching criteria
+2025-09-25 17:23:56,939 - emails.email_processor - INFO - Processing email 1/5
+2025-09-25 17:23:57,166 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-25 17:23:57,167 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-25 17:23:57,167 - emails.email_processor - INFO - Processing email 2/5
+2025-09-25 17:23:59,105 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-25 17:23:59,105 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 17:23:59,106 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 17:24:10,432 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_HIIIII_20250925_172410.txt
+2025-09-25 17:24:10,432 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_172359.pdf
+2025-09-25 17:24:10,433 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_172359.pdf
+2025-09-25 17:24:10,652 - emails.email_processor - INFO - Successfully processed email b'8481' with full content extraction
+2025-09-25 17:24:10,652 - emails.email_processor - INFO - Processing email 3/5
+2025-09-25 17:24:11,614 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-25 17:24:11,615 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 17:24:11,616 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 17:24:14,000 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_CLAIM_20250925_172413_20250925_172413.txt
+2025-09-25 17:24:14,000 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_172411_20250925_172411.pdf
+2025-09-25 17:24:14,001 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_172411_20250925_172411.pdf
+2025-09-25 17:24:14,210 - emails.email_processor - INFO - Successfully processed email b'8486' with full content extraction
+2025-09-25 17:24:14,211 - emails.email_processor - INFO - Processing email 4/5
+2025-09-25 17:24:14,918 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-25 17:24:14,919 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-25 17:24:14,920 - emails.email_processor - INFO - Processing relevant email: claims
+2025-09-25 17:24:17,472 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_S_20250925_172417.txt
+2025-09-25 17:24:17,473 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_172414.pdf
+2025-09-25 17:24:17,474 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_172414.pdf
+2025-09-25 17:24:17,724 - emails.email_processor - INFO - Successfully processed email b'8490' with full content extraction
+2025-09-25 17:24:17,725 - emails.email_processor - INFO - Processing email 5/5
+2025-09-25 17:24:20,271 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-25 17:24:20,271 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-25 17:24:20,272 - emails.email_processor - INFO - Processing relevant email: claims
+2025-09-25 17:24:22,440 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_S_20250925_172422.txt
+2025-09-25 17:24:22,441 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_172420.pdf
+2025-09-25 17:24:22,441 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_172420.pdf
+2025-09-25 17:24:22,676 - emails.email_processor - INFO - Successfully processed email b'8496' with full content extraction
+2025-09-25 17:24:23,063 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 17:24:23,063 - __main__ - INFO - Processing completed. Processed 4 emails
+2025-09-25 17:24:23,072 - __main__ - INFO -   Attachments: 2
+2025-09-25 17:24:23,072 - __main__ - INFO -   Claim Number: HIIIII
+2025-09-25 17:24:23,073 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_172359.pdf
+2025-09-25 17:24:23,082 - __main__ - INFO -   Attachments: 1
+2025-09-25 17:24:23,082 - __main__ - INFO -   Claim Number: CLAIM_20250925_172414
+2025-09-25 17:24:23,083 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_172411_20250925_172411.pdf
+2025-09-25 17:24:23,088 - __main__ - INFO -   Attachments: 1
+2025-09-25 17:24:23,089 - __main__ - INFO -   Claim Number: S
+2025-09-25 17:24:23,089 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_172414.pdf
+2025-09-25 17:24:23,098 - __main__ - INFO -   Attachments: 1
+2025-09-25 17:24:23,099 - __main__ - INFO -   Claim Number: S
+2025-09-25 17:24:23,099 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_172420.pdf
+2025-09-25 17:28:01,686 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 17:28:01,689 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 17:28:01,689 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 17:28:02,371 - emails.email_client - INFO - SSL connection established
+2025-09-25 17:28:02,851 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 17:28:03,085 - emails.email_client - INFO - Selected folder 'INBOX' with 8497 messages
+2025-09-25 17:28:03,320 - emails.email_client - INFO - Selected folder 'INBOX' with 8497 messages
+2025-09-25 17:28:03,320 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "Daphneymaebawork@gmail.com")
+2025-09-25 17:28:03,557 - emails.email_client - INFO - Found 1 emails matching criteria
+2025-09-25 17:28:03,557 - emails.email_processor - INFO - Processing email 1/1
+2025-09-25 17:28:04,853 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-25 17:28:04,853 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-25 17:28:04,854 - emails.email_processor - INFO - Processing relevant email: Fwd: claims
+2025-09-25 17:28:06,961 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_S_20250925_172806.txt
+2025-09-25 17:28:06,962 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_172804.pdf
+2025-09-25 17:28:06,962 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_172804.pdf
+2025-09-25 17:28:07,233 - emails.email_processor - INFO - Successfully processed email b'8497' with full content extraction
+2025-09-25 17:28:07,628 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 17:28:07,628 - __main__ - INFO - Processing completed. Processed 1 emails
+2025-09-25 17:28:07,639 - __main__ - INFO -   Attachments: 1
+2025-09-25 17:28:07,639 - __main__ - INFO -   Claim Number: S
+2025-09-25 17:28:07,640 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_172804.pdf
+2025-09-25 17:30:28,817 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 17:30:28,819 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 17:30:28,819 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 17:30:29,554 - emails.email_client - INFO - SSL connection established
+2025-09-25 17:30:29,998 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 17:30:30,218 - emails.email_client - INFO - Selected folder 'INBOX' with 8497 messages
+2025-09-25 17:30:30,469 - emails.email_client - INFO - Selected folder 'INBOX' with 8497 messages
+2025-09-25 17:30:30,469 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "Daphneymaebawork@gmail.com")
+2025-09-25 17:30:30,707 - emails.email_client - INFO - No emails found matching criteria
+2025-09-25 17:30:30,929 - emails.email_client - INFO - Selected folder 'INBOX' with 8497 messages
+2025-09-25 17:30:30,930 - emails.email_client - INFO - Searching emails with criteria: (FROM "Daphneymaebawork@gmail.com")
+2025-09-25 17:30:31,137 - emails.email_client - INFO - Found 6 emails matching criteria
+2025-09-25 17:30:31,137 - emails.email_processor - INFO - Processing email 1/6
+2025-09-25 17:30:31,387 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-25 17:30:31,387 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-25 17:30:31,388 - emails.email_processor - INFO - Processing email 2/6
+2025-09-25 17:30:33,519 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-25 17:30:33,519 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 17:30:33,520 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 17:30:44,448 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_HIIIII_20250925_173044.txt
+2025-09-25 17:30:44,449 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_173033.pdf
+2025-09-25 17:30:44,449 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_173033.pdf
+2025-09-25 17:30:44,824 - emails.email_processor - INFO - Successfully processed email b'8481' with full content extraction
+2025-09-25 17:30:44,825 - emails.email_processor - INFO - Processing email 3/6
+2025-09-25 17:30:45,484 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-25 17:30:45,485 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 17:30:45,486 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 17:30:48,207 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_CLAIM_20250925_173048_20250925_173048.txt
+2025-09-25 17:30:48,208 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_173045_20250925_173045.pdf
+2025-09-25 17:30:48,208 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_173045_20250925_173045.pdf
+2025-09-25 17:30:48,508 - emails.email_processor - INFO - Successfully processed email b'8486' with full content extraction
+2025-09-25 17:30:48,509 - emails.email_processor - INFO - Processing email 4/6
+2025-09-25 17:30:49,164 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-25 17:30:49,165 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-25 17:30:49,165 - emails.email_processor - INFO - Processing relevant email: claims
+2025-09-25 17:30:51,615 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_S_20250925_173051.txt
+2025-09-25 17:30:51,616 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_173049.pdf
+2025-09-25 17:30:51,616 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_173049.pdf
+2025-09-25 17:30:51,882 - emails.email_processor - INFO - Successfully processed email b'8490' with full content extraction
+2025-09-25 17:30:51,883 - emails.email_processor - INFO - Processing email 5/6
+2025-09-25 17:30:52,556 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-25 17:30:52,557 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-25 17:30:52,558 - emails.email_processor - INFO - Processing relevant email: claims
+2025-09-25 17:30:54,832 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_S_20250925_173054.txt
+2025-09-25 17:30:54,832 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_173052.pdf
+2025-09-25 17:30:54,833 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_173052.pdf
+2025-09-25 17:30:55,095 - emails.email_processor - INFO - Successfully processed email b'8496' with full content extraction
+2025-09-25 17:30:55,095 - emails.email_processor - INFO - Processing email 6/6
+2025-09-25 17:30:55,819 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-25 17:30:55,820 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-25 17:30:55,820 - emails.email_processor - INFO - Processing relevant email: Fwd: claims
+2025-09-25 17:30:58,312 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_S_20250925_173058.txt
+2025-09-25 17:30:58,313 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_173055.pdf
+2025-09-25 17:30:58,313 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_173055.pdf
+2025-09-25 17:30:58,549 - emails.email_processor - INFO - Successfully processed email b'8497' with full content extraction
+2025-09-25 17:30:59,339 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 17:30:59,339 - __main__ - INFO - Processing completed. Processed 5 emails
+2025-09-25 17:30:59,351 - __main__ - INFO -   Attachments: 2
+2025-09-25 17:30:59,352 - __main__ - INFO -   Claim Number: HIIIII
+2025-09-25 17:30:59,353 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_173033.pdf
+2025-09-25 17:30:59,363 - __main__ - INFO -   Attachments: 1
+2025-09-25 17:30:59,363 - __main__ - INFO -   Claim Number: CLAIM_20250925_173048
+2025-09-25 17:30:59,364 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_173045_20250925_173045.pdf
+2025-09-25 17:30:59,370 - __main__ - INFO -   Attachments: 1
+2025-09-25 17:30:59,371 - __main__ - INFO -   Claim Number: S
+2025-09-25 17:30:59,373 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_173049.pdf
+2025-09-25 17:30:59,384 - __main__ - INFO -   Attachments: 1
+2025-09-25 17:30:59,386 - __main__ - INFO -   Claim Number: S
+2025-09-25 17:30:59,387 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_173052.pdf
+2025-09-25 17:30:59,398 - __main__ - INFO -   Attachments: 1
+2025-09-25 17:30:59,398 - __main__ - INFO -   Claim Number: S
+2025-09-25 17:30:59,399 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_173055.pdf
+2025-09-25 23:45:41,545 - __main__ - INFO - Starting Marine Reinsurance Claims Processing System
+2025-09-25 23:45:41,549 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-25 23:45:41,549 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-25 23:45:42,542 - emails.email_client - INFO - SSL connection established
+2025-09-25 23:45:43,057 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-25 23:45:43,275 - emails.email_client - INFO - Selected folder 'INBOX' with 8501 messages
+2025-09-25 23:45:43,477 - emails.email_client - INFO - Selected folder 'INBOX' with 8501 messages
+2025-09-25 23:45:43,477 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "Daphneymaebawork@gmail.com")
+2025-09-25 23:45:43,769 - emails.email_client - INFO - No emails found matching criteria
+2025-09-25 23:45:43,983 - emails.email_client - INFO - Selected folder 'INBOX' with 8501 messages
+2025-09-25 23:45:43,983 - emails.email_client - INFO - Searching emails with criteria: (FROM "Daphneymaebawork@gmail.com")
+2025-09-25 23:45:44,186 - emails.email_client - INFO - Found 6 emails matching criteria
+2025-09-25 23:45:44,187 - emails.email_processor - INFO - Processing email 1/6
+2025-09-25 23:45:44,428 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-25 23:45:44,429 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-25 23:45:44,429 - emails.email_processor - INFO - Processing email 2/6
+2025-09-25 23:45:47,120 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-25 23:45:47,121 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 23:45:47,121 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 23:45:59,409 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_HIIIII_20250925_234559.txt
+2025-09-25 23:45:59,410 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_234547.pdf
+2025-09-25 23:45:59,410 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_234547.pdf
+2025-09-25 23:45:59,780 - emails.email_processor - INFO - Successfully processed email b'8481' with full content extraction
+2025-09-25 23:45:59,781 - emails.email_processor - INFO - Processing email 3/6
+2025-09-25 23:46:00,299 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-25 23:46:00,299 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-25 23:46:00,300 - emails.email_processor - INFO - Processing relevant email: claim
+2025-09-25 23:46:02,760 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_CLAIM_20250925_234602_20250925_234602.txt
+2025-09-25 23:46:02,761 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_234600_20250925_234600.pdf
+2025-09-25 23:46:02,762 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_234600_20250925_234600.pdf
+2025-09-25 23:46:03,042 - emails.email_processor - INFO - Successfully processed email b'8486' with full content extraction
+2025-09-25 23:46:03,042 - emails.email_processor - INFO - Processing email 4/6
+2025-09-25 23:46:03,591 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-25 23:46:03,592 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-25 23:46:03,592 - emails.email_processor - INFO - Processing relevant email: claims
+2025-09-25 23:46:06,064 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_S_20250925_234606.txt
+2025-09-25 23:46:06,065 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_234603.pdf
+2025-09-25 23:46:06,065 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_234603.pdf
+2025-09-25 23:46:06,325 - emails.email_processor - INFO - Successfully processed email b'8490' with full content extraction
+2025-09-25 23:46:06,325 - emails.email_processor - INFO - Processing email 5/6
+2025-09-25 23:46:06,856 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-25 23:46:06,857 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-25 23:46:06,857 - emails.email_processor - INFO - Processing relevant email: claims
+2025-09-25 23:46:09,112 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_S_20250925_234609.txt
+2025-09-25 23:46:09,113 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_234606.pdf
+2025-09-25 23:46:09,114 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_234606.pdf
+2025-09-25 23:46:09,384 - emails.email_processor - INFO - Successfully processed email b'8496' with full content extraction
+2025-09-25 23:46:09,385 - emails.email_processor - INFO - Processing email 6/6
+2025-09-25 23:46:10,109 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-25 23:46:10,110 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-25 23:46:10,110 - emails.email_processor - INFO - Processing relevant email: Fwd: claims
+2025-09-25 23:46:12,502 - pdf_compilation.pdf_compiler - INFO - Also created text file: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_S_20250925_234612.txt
+2025-09-25 23:46:12,503 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_234610.pdf
+2025-09-25 23:46:12,504 - emails.email_processor - INFO - Comprehensive PDF created: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_234610.pdf
+2025-09-25 23:46:13,100 - emails.email_processor - INFO - Successfully processed email b'8497' with full content extraction
+2025-09-25 23:46:13,670 - emails.email_client - INFO - Disconnected from email server
+2025-09-25 23:46:13,671 - __main__ - INFO - Processing completed. Processed 5 emails
+2025-09-25 23:46:13,754 - __main__ - INFO -   Attachments: 2
+2025-09-25 23:46:13,755 - __main__ - INFO -   Claim Number: HIIIII
+2025-09-25 23:46:13,755 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_HIIIII_20250925_234547.pdf
+2025-09-25 23:46:13,765 - __main__ - INFO -   Attachments: 1
+2025-09-25 23:46:13,766 - __main__ - INFO -   Claim Number: CLAIM_20250925_234603
+2025-09-25 23:46:13,767 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_CLAIM_20250925_234600_20250925_234600.pdf
+2025-09-25 23:46:13,773 - __main__ - INFO -   Attachments: 1
+2025-09-25 23:46:13,773 - __main__ - INFO -   Claim Number: S
+2025-09-25 23:46:13,774 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_234603.pdf
+2025-09-25 23:46:13,785 - __main__ - INFO -   Attachments: 1
+2025-09-25 23:46:13,785 - __main__ - INFO -   Claim Number: S
+2025-09-25 23:46:13,785 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_234606.pdf
+2025-09-25 23:46:13,791 - __main__ - INFO -   Attachments: 1
+2025-09-25 23:46:13,791 - __main__ - INFO -   Claim Number: S
+2025-09-25 23:46:13,792 - __main__ - INFO -   PDF saved to: c:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250925_234610.pdf
