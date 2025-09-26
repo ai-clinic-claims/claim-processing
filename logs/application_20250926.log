@@ -10959,3 +10959,1525 @@ violations {
 2025-09-26 05:27:00,963 - emails.email_client - INFO - Successfully parsed email: request for claim
 2025-09-26 05:27:00,963 - emails.email_processor - INFO - Email already processed: request for claim
 2025-09-26 05:27:01,391 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:26:21,372 - __main__ - INFO - 
+2025-09-26 07:26:21,381 - dashboard.app - INFO - Starting Marine Claims Dashboard on 0.0.0.0:5000
+2025-09-26 07:26:58,377 - gemini_integration.gemini_client - INFO - Gemini AI client configured successfully
+2025-09-26 07:26:58,378 - gemini_integration.gemini_client - INFO - Gemini AI client configured successfully
+2025-09-26 07:26:58,379 - gemini_integration.gemini_client - INFO - Gemini AI client configured successfully
+2025-09-26 07:26:58,383 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:26:58,384 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:26:59,160 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:26:59,498 - dashboard.app - INFO - Background email processor started
+2025-09-26 07:26:59,500 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:26:59,501 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:26:59,721 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:27:00,029 - emails.email_client - INFO - Selected folder 'INBOX' with 8512 messages
+2025-09-26 07:27:00,030 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:27:00,233 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:27:00,245 - emails.email_client - INFO - Selected folder 'INBOX' with 8512 messages
+2025-09-26 07:27:00,245 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:27:00,246 - emails.email_client - ERROR - Error searching emails: command SEARCH illegal in state NONAUTH, only allowed in states SELECTED
+2025-09-26 07:27:00,247 - emails.email_client - ERROR - Error selecting folder 'INBOX': command SELECT illegal in state NONAUTH, only allowed in states AUTH, SELECTED
+2025-09-26 07:27:00,248 - emails.email_processor - INFO - No emails found from daphneymaebawork@gmail.com
+2025-09-26 07:27:00,248 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:27:00,249 - emails.email_client - ERROR - Error selecting folder 'INBOX': command SELECT illegal in state NONAUTH, only allowed in states AUTH, SELECTED
+2025-09-26 07:27:00,250 - emails.email_client - ERROR - Error selecting folder 'INBOX': command SELECT illegal in state NONAUTH, only allowed in states AUTH, SELECTED
+2025-09-26 07:27:00,252 - emails.email_processor - INFO - No emails found from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:27:00,252 - emails.email_processor - INFO - No emails found from any target sender
+2025-09-26 07:27:00,253 - emails.email_client - ERROR - Error disconnecting: command CLOSE illegal in state NONAUTH, only allowed in states SELECTED
+2025-09-26 07:27:00,643 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:27:00,950 - emails.email_client - INFO - Selected folder 'INBOX' with 8512 messages
+2025-09-26 07:27:00,951 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:27:01,258 - emails.email_client - INFO - Selected folder 'INBOX' with 8512 messages
+2025-09-26 07:27:01,259 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:27:01,565 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:27:01,872 - emails.email_client - INFO - Selected folder 'INBOX' with 8512 messages
+2025-09-26 07:27:01,875 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:27:02,151 - emails.email_client - INFO - Found 6 emails matching criteria
+2025-09-26 07:27:02,151 - emails.email_processor - INFO - Found 6 emails from daphneymaebawork@gmail.com
+2025-09-26 07:27:02,152 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:27:02,384 - emails.email_client - INFO - Selected folder 'INBOX' with 8512 messages
+2025-09-26 07:27:02,385 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:27:02,706 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:27:02,918 - emails.email_client - INFO - Selected folder 'INBOX' with 8512 messages
+2025-09-26 07:27:02,919 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:27:03,126 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:27:03,127 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:27:03,128 - emails.email_processor - INFO - Processing email 1/8
+2025-09-26 07:27:03,408 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:27:03,410 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:27:03,411 - emails.email_processor - INFO - Processing email 2/8
+2025-09-26 07:27:04,794 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:27:04,795 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:27:04,797 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:27:04,799 - emails.email_processor - INFO - Processing email 3/8
+2025-09-26 07:27:05,250 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:27:05,250 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:27:05,251 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:27:05,252 - emails.email_processor - INFO - Processing email 4/8
+2025-09-26 07:27:05,709 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:27:05,709 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:27:05,710 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:27:05,711 - emails.email_processor - INFO - Processing email 5/8
+2025-09-26 07:27:06,205 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:27:06,206 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:27:06,207 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:27:06,208 - emails.email_processor - INFO - Processing email 6/8
+2025-09-26 07:27:06,663 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:27:06,664 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:27:06,665 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:27:06,666 - emails.email_processor - INFO - Processing email 7/8
+2025-09-26 07:27:07,147 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:27:07,147 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:27:07,148 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:27:07,149 - emails.email_processor - INFO - Processing email 8/8
+2025-09-26 07:27:08,072 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:27:08,072 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:27:08,074 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:27:08,630 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:28:08,639 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:28:08,639 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:28:09,453 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:28:09,776 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:28:10,068 - emails.email_client - INFO - Selected folder 'INBOX' with 8513 messages
+2025-09-26 07:28:10,068 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:28:10,375 - emails.email_client - INFO - Selected folder 'INBOX' with 8513 messages
+2025-09-26 07:28:10,376 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:28:10,682 - emails.email_client - INFO - Found 1 emails matching criteria
+2025-09-26 07:28:10,683 - emails.email_processor - INFO - Found 1 emails from daphneymaebawork@gmail.com
+2025-09-26 07:28:10,683 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:28:10,990 - emails.email_client - INFO - Selected folder 'INBOX' with 8513 messages
+2025-09-26 07:28:10,991 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:28:11,297 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:28:11,604 - emails.email_client - INFO - Selected folder 'INBOX' with 8513 messages
+2025-09-26 07:28:11,605 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:28:11,911 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:28:11,911 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:28:11,912 - emails.email_processor - INFO - Processing email 1/3
+2025-09-26 07:28:12,694 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:28:12,695 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:28:12,695 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:28:12,696 - emails.email_processor - INFO - Processing email 2/3
+2025-09-26 07:28:13,493 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:28:13,493 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:28:13,494 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:28:13,495 - emails.email_processor - INFO - Processing email 3/3
+2025-09-26 07:28:14,018 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:28:14,018 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:28:14,019 - emails.email_processor - INFO - Processing relevant email: Re: claims
+2025-09-26 07:28:17,619 - pdf_compilation.pdf_compiler - INFO - Also created text file: C:\Users\KELLY NYACHIRO\data\compiled_pdfs\Full_Extracted_Content_S_20250926_072817.txt
+2025-09-26 07:28:17,620 - pdf_compilation.pdf_compiler - INFO - Successfully compiled comprehensive PDF with full attachment content and structured data: C:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250926_072814.pdf
+2025-09-26 07:28:17,621 - emails.email_processor - INFO - Comprehensive PDF created: C:\Users\KELLY NYACHIRO\data\compiled_pdfs\Claim_S_20250926_072814.pdf
+2025-09-26 07:28:17,859 - emails.email_processor - INFO - Successfully processed email b'8513' with full content extraction
+2025-09-26 07:28:18,465 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:28:18,465 - dashboard.app - INFO - Background processing: Found 1 new emails
+2025-09-26 07:28:18,466 - processing.pipeline - INFO - Processing claim from email: Re: claims
+2025-09-26 07:28:18,466 - processing.pipeline - ERROR - Error extracting PDF content: 'DocumentReader' object has no attribute 'extract_text_from_pdf'
+2025-09-26 07:28:18,467 - gemini_integration.claims_analyzer - INFO - Starting claim analysis with Gemini AI
+2025-09-26 07:28:19,799 - gemini_integration.gemini_client - ERROR - Error in Gemini AI analysis: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0
+Please retry in 40.70088863s. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 40
+}
+]
+2025-09-26 07:28:19,807 - gemini_integration.claims_analyzer - WARNING - Could not parse JSON from AI response, using text analysis
+2025-09-26 07:28:19,811 - gemini_integration.claims_analyzer - INFO - Claim analysis completed successfully
+2025-09-26 07:28:19,812 - gemini_integration.duplicate_detector - INFO - Checking for duplicate claims
+2025-09-26 07:28:20,104 - gemini_integration.gemini_client - ERROR - Error in Gemini AI analysis: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0
+Please retry in 40.341534639s. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 40
+}
+]
+2025-09-26 07:28:20,120 - gemini_integration.duplicate_detector - INFO - Duplicate check completed: False
+2025-09-26 07:28:20,121 - gemini_integration.fraud_detector - INFO - Starting fraud detection analysis
+2025-09-26 07:28:20,723 - gemini_integration.gemini_client - ERROR - Error in Gemini AI analysis: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0
+Please retry in 39.76910582s. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 39
+}
+]
+2025-09-26 07:28:20,737 - gemini_integration.fraud_detector - INFO - Fraud detection completed - Score: 0.42
+2025-09-26 07:28:20,783 - reporting.report_generator - INFO - Claim report generated: C:\Users\KELLY NYACHIRO\data\reports\claim_report_CLM-25019_20250926_072820.pdf
+2025-09-26 07:28:20,789 - processing.pipeline - INFO - Successfully processed claim CLM-25019
+2025-09-26 07:28:20,789 - dashboard.app - INFO - Background processing completed: CLM-25019
+2025-09-26 07:29:20,793 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:29:20,799 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:29:21,541 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:29:21,950 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:29:22,361 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:29:22,362 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:29:22,668 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:29:22,668 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:29:22,974 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:29:23,282 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:29:23,282 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:29:23,589 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:29:23,591 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:29:23,592 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:29:23,896 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:29:23,897 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:29:24,307 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:29:24,613 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:29:24,613 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:29:24,818 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:29:24,818 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:29:24,819 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:29:25,128 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:29:25,129 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:29:25,130 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:29:26,739 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:29:26,739 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:29:26,741 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:29:26,742 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:29:27,330 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:29:27,331 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:29:27,332 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:29:27,332 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:29:27,771 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:29:27,772 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:29:27,773 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:29:27,774 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:29:28,236 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:29:28,237 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:29:28,238 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:29:28,239 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:29:28,683 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:29:28,684 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:29:28,685 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:29:28,686 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:29:29,201 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:29:29,202 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:29:29,203 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:29:29,204 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:29:30,025 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:29:30,025 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:29:30,027 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:29:30,027 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:29:30,557 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:29:30,631 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:29:30,639 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:29:31,166 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:30:31,179 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:30:31,180 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:30:31,841 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:30:32,195 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:30:32,427 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:30:32,428 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:30:32,707 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:30:32,708 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:30:33,014 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:30:33,321 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:30:33,322 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:30:33,628 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:30:33,629 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:30:33,630 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:30:33,936 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:30:33,936 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:30:34,246 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:30:34,550 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:30:34,551 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:30:34,857 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:30:34,858 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:30:34,858 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:30:35,168 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:30:35,168 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:30:35,169 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:30:36,569 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:30:36,572 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:30:36,574 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:30:36,575 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:30:37,045 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:30:37,046 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:30:37,048 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:30:37,049 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:30:37,533 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:30:37,533 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:30:37,534 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:30:37,535 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:30:37,956 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:30:37,957 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:30:37,957 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:30:37,958 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:30:38,398 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:30:38,398 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:30:38,399 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:30:38,400 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:30:38,896 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:30:38,896 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:30:38,897 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:30:38,898 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:30:39,645 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:30:39,646 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:30:39,647 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:30:39,648 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:30:40,139 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:30:40,140 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:30:40,141 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:30:40,694 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:31:40,701 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:31:40,702 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:31:41,620 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:31:42,132 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:31:42,439 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:31:42,440 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:31:42,746 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:31:42,747 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:31:43,053 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:31:43,361 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:31:43,362 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:31:43,667 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:31:43,668 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:31:43,670 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:31:43,892 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:31:43,893 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:31:44,179 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:31:44,487 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:31:44,488 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:31:44,794 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:31:44,802 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:31:44,803 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:31:45,103 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:31:45,105 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:31:45,106 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:31:46,494 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:31:46,494 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:31:46,496 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:31:46,497 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:31:46,966 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:31:46,966 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:31:46,967 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:31:46,968 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:31:47,411 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:31:47,412 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:31:47,412 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:31:47,413 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:31:47,842 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:31:47,843 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:31:47,844 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:31:47,845 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:31:48,274 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:31:48,275 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:31:48,276 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:31:48,276 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:31:48,710 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:31:48,710 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:31:48,711 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:31:48,712 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:31:49,374 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:31:49,375 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:31:49,376 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:31:49,377 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:31:49,867 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:31:49,868 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:31:49,869 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:31:50,234 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:32:50,243 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:32:50,243 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:32:50,927 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:32:51,370 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:32:51,596 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:32:51,597 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:32:51,799 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:32:51,799 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:32:51,992 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:32:52,252 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:32:52,253 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:32:52,478 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:32:52,479 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:32:52,480 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:32:52,725 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:32:52,726 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:32:52,992 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:32:53,262 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:32:53,263 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:32:53,502 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:32:53,503 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:32:53,504 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:32:53,813 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:32:53,813 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:32:53,814 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:32:55,250 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:32:55,250 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:32:55,252 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:32:55,253 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:32:55,745 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:32:55,746 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:32:55,747 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:32:55,748 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:32:56,212 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:32:56,213 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:32:56,214 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:32:56,215 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:32:56,691 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:32:56,691 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:32:56,692 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:32:56,693 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:32:57,153 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:32:57,154 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:32:57,155 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:32:57,156 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:32:57,621 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:32:57,622 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:32:57,623 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:32:57,623 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:32:58,366 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:32:58,367 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:32:58,368 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:32:58,369 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:32:59,662 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:32:59,663 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:32:59,664 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:33:00,041 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:34:00,054 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:34:00,056 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:34:00,777 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:34:01,289 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:34:01,596 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:34:01,598 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:34:01,904 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:34:01,905 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:34:02,131 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:34:02,345 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:34:02,347 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:34:02,625 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:34:02,627 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:34:02,628 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:34:02,930 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:34:02,931 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:34:03,236 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:34:03,452 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:34:03,453 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:34:03,657 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:34:03,657 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:34:03,658 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:34:03,871 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:34:03,873 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:34:03,874 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:34:05,673 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:34:05,674 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:34:05,675 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:34:05,676 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:34:06,340 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:34:06,349 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:34:06,355 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:34:06,357 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:34:07,017 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:34:07,018 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:34:07,019 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:34:07,019 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:34:07,515 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:34:07,517 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:34:07,518 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:34:07,519 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:34:07,956 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:34:07,957 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:34:07,958 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:34:07,959 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:34:08,892 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:34:08,893 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:34:08,894 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:34:08,894 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:34:10,059 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:34:10,060 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:34:10,062 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:34:10,062 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:34:10,556 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:34:10,557 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:34:10,557 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:34:11,119 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:35:11,133 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:35:11,134 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:35:11,943 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:35:12,455 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:35:12,688 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:35:12,689 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:35:12,967 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:35:12,967 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:35:13,274 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:35:13,581 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:35:13,582 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:35:13,888 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:35:13,889 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:35:13,890 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:35:14,195 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:35:14,196 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:35:14,502 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:35:14,811 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:35:14,812 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:35:15,117 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:35:15,118 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:35:15,119 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:35:15,427 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:35:15,428 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:35:15,429 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:35:17,785 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:35:17,786 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:35:17,787 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:35:17,788 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:35:18,434 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:35:18,434 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:35:18,435 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:35:18,436 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:35:19,382 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:35:19,382 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:35:19,383 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:35:19,384 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:35:19,961 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:35:19,962 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:35:19,963 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:35:19,963 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:35:20,608 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:35:20,609 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:35:20,610 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:35:20,610 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:35:21,288 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:35:21,289 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:35:21,289 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:35:21,290 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:35:22,609 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:35:22,610 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:35:22,611 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:35:22,611 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:35:23,435 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:35:23,436 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:35:23,437 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:35:23,821 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:36:23,836 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:36:23,836 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:36:24,497 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:36:24,957 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:36:25,259 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:36:25,260 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:36:25,466 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:36:25,466 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:36:25,668 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:36:25,865 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:36:25,866 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:36:26,066 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:36:26,067 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:36:26,068 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:36:26,283 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:36:26,284 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:36:26,600 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:36:26,811 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:36:26,812 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:36:27,102 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:36:27,102 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:36:27,103 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:36:27,412 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:36:27,413 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:36:27,415 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:36:29,040 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:36:29,046 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:36:29,048 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:36:29,050 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:36:29,550 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:36:29,552 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:36:29,553 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:36:29,554 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:36:29,998 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:36:30,000 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:36:30,001 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:36:30,002 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:36:30,457 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:36:30,461 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:36:30,462 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:36:30,462 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:36:30,915 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:36:30,916 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:36:30,917 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:36:30,917 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:36:31,442 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:36:31,442 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:36:31,443 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:36:31,444 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:36:32,190 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:36:32,191 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:36:32,192 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:36:32,193 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:36:32,685 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:36:32,686 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:36:32,687 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:36:33,255 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:37:33,271 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:37:33,272 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:37:34,171 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:37:34,685 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:37:34,991 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:37:34,992 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:37:35,298 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:37:35,299 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:37:35,605 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:37:35,913 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:37:35,914 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:37:36,219 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:37:36,220 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:37:36,221 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:37:36,527 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:37:36,528 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:37:36,834 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:37:37,141 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:37:37,142 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:37:37,448 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:37:37,449 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:37:37,450 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:37:37,675 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:37:37,675 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:37:37,676 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:37:39,210 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:37:39,211 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:37:39,212 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:37:39,213 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:37:39,679 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:37:39,680 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:37:39,681 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:37:39,681 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:37:40,135 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:37:40,136 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:37:40,137 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:37:40,138 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:37:40,624 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:37:40,625 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:37:40,626 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:37:40,627 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:37:41,526 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:37:41,527 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:37:41,529 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:37:41,530 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:37:42,152 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:37:42,153 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:37:42,154 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:37:42,155 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:37:42,901 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:37:42,902 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:37:42,903 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:37:42,903 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:37:43,414 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:37:43,415 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:37:43,416 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:37:43,807 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:38:43,819 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:38:43,819 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:38:44,518 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:38:44,949 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:38:45,157 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:38:45,158 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:38:45,361 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:38:45,362 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:38:45,599 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:38:45,848 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:38:45,848 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:38:46,039 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:38:46,040 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:38:46,041 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:38:46,340 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:38:46,341 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:38:46,566 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:38:46,873 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:38:46,875 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:38:47,065 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:38:47,066 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:38:47,067 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:38:47,289 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:38:47,290 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:38:47,290 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:38:49,090 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:38:49,091 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:38:49,092 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:38:49,093 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:38:49,525 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:38:49,525 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:38:49,526 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:38:49,527 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:38:49,964 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:38:49,964 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:38:49,965 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:38:49,966 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:38:50,454 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:38:50,455 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:38:50,455 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:38:50,456 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:38:50,943 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:38:50,944 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:38:50,945 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:38:50,946 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:38:51,424 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:38:51,425 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:38:51,427 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:38:51,427 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:38:52,244 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:38:52,245 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:38:52,246 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:38:52,247 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:38:52,863 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:38:52,864 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:38:52,865 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:38:53,427 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:39:53,434 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:39:53,436 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:39:54,148 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:39:54,659 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:39:54,967 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:39:54,969 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:39:55,274 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:39:55,275 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:39:55,480 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:39:55,798 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:39:55,802 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:39:56,093 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:39:56,094 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:39:56,095 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:39:56,401 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:39:56,402 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:39:56,708 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:39:57,015 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:39:57,016 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:39:57,322 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:39:57,323 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:39:57,324 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:39:57,633 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:39:57,634 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:39:57,634 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:39:59,197 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:39:59,197 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:39:59,199 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:39:59,200 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:39:59,686 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:39:59,687 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:39:59,688 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:39:59,689 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:40:00,197 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:40:00,198 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:40:00,199 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:40:00,200 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:40:00,741 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:40:00,742 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:40:00,743 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:40:00,743 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:40:01,296 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:40:01,297 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:40:01,298 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:40:01,298 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:40:01,811 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:40:01,811 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:40:01,812 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:40:01,813 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:40:02,627 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:40:02,628 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:40:02,629 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:40:02,630 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:40:03,236 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:40:03,236 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:40:03,237 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:40:03,774 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:41:03,788 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:41:03,789 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:41:04,374 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:41:04,802 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:41:05,109 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:41:05,110 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:41:05,332 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:41:05,333 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:41:05,621 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:41:05,928 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:41:05,929 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:41:06,235 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:41:06,236 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:41:06,237 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:41:06,449 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:41:06,450 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:41:06,645 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:41:06,882 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:41:06,883 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:41:07,075 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:41:07,076 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:41:07,077 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:41:07,307 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:41:07,307 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:41:07,308 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:41:08,998 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:41:08,999 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:41:09,001 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:41:09,002 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:41:09,749 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:41:09,749 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:41:09,750 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:41:09,751 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:41:10,497 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:41:10,497 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:41:10,498 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:41:10,499 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:41:11,197 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:41:11,198 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:41:11,199 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:41:11,200 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:41:11,834 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:41:11,835 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:41:11,836 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:41:11,837 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:41:12,433 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:41:12,433 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:41:12,434 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:41:12,435 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:41:13,471 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:41:13,472 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:41:13,473 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:41:13,473 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:41:14,176 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:41:14,177 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:41:14,178 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:41:14,734 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:42:14,741 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:42:14,741 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:42:15,558 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:42:16,070 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:42:16,479 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:42:16,480 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:42:16,786 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:42:16,787 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:42:17,094 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:42:17,401 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:42:17,402 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:42:17,711 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:42:17,712 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:42:17,713 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:42:18,016 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:42:18,016 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:42:18,322 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:42:18,630 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:42:18,630 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:42:18,937 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:42:18,937 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:42:18,938 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:42:19,247 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:42:19,248 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:42:19,249 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:42:22,732 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:42:22,732 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:42:22,734 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:42:22,735 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:42:23,777 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:42:23,778 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:42:23,778 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:42:23,779 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:42:24,863 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:42:24,863 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:42:24,864 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:42:24,865 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:42:25,727 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:42:25,729 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:42:25,730 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:42:25,730 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:42:26,437 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:42:26,438 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:42:26,439 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:42:26,440 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:42:27,078 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:42:27,078 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:42:27,079 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:42:27,080 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:42:28,035 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:42:28,036 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:42:28,037 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:42:28,038 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:42:28,567 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:42:28,568 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:42:28,569 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:42:29,074 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:43:29,077 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:43:29,078 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:43:29,795 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:43:30,234 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:43:30,512 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:43:30,513 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:43:30,819 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:43:30,820 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:43:31,126 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:43:31,536 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:43:31,537 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:43:31,843 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:43:31,844 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:43:31,845 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:43:32,056 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:43:32,057 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:43:32,268 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:43:32,510 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:43:32,511 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:43:32,770 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:43:32,770 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:43:32,771 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:43:32,983 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:43:32,984 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:43:32,985 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:43:34,318 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:43:34,319 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:43:34,320 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:43:34,321 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:43:34,756 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:43:34,757 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:43:34,758 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:43:34,758 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:43:35,257 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:43:35,257 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:43:35,258 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:43:35,259 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:43:35,726 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:43:35,727 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:43:35,728 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:43:35,728 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:43:36,131 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:43:36,132 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:43:36,133 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:43:36,133 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:43:36,629 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:43:36,630 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:43:36,631 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:43:36,631 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:43:37,446 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:43:37,446 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:43:37,447 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:43:37,448 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:43:37,865 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:43:37,866 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:43:37,867 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:43:38,238 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:44:38,234 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:44:38,235 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:44:39,016 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:44:39,425 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:44:39,732 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:44:39,733 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:44:40,039 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:44:40,040 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:44:40,347 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:44:40,654 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:44:40,655 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:44:40,961 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:44:40,962 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:44:40,963 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:44:41,268 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:44:41,269 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:44:41,575 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:44:41,883 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:44:41,884 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:44:42,190 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:44:42,191 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:44:42,191 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:44:42,500 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:44:42,501 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:44:42,503 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:44:43,918 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:44:43,918 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:44:43,919 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:44:43,921 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:44:44,382 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:44:44,383 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:44:44,384 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:44:44,384 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:44:44,848 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:44:44,849 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:44:44,850 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:44:44,851 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:44:45,396 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:44:45,397 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:44:45,398 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:44:45,398 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:44:45,932 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:44:45,933 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:44:45,934 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:44:45,935 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:44:46,421 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:44:46,421 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:44:46,423 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:44:46,423 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:44:47,233 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:44:47,234 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:44:47,235 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:44:47,235 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:44:47,664 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:44:47,665 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:44:47,666 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:44:48,129 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:45:48,138 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:45:48,138 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:45:48,822 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:45:49,157 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:45:49,392 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:45:49,393 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:45:49,593 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:45:49,594 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:45:49,874 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:45:50,182 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:45:50,183 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:45:50,392 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:45:50,393 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:45:50,394 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:45:50,696 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:45:50,697 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:45:50,898 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:45:51,198 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:45:51,199 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:45:51,466 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:45:51,467 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:45:51,467 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:45:51,677 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:45:51,678 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:45:51,679 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:45:53,635 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:45:53,636 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:45:53,637 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:45:53,638 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:45:54,087 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:45:54,088 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:45:54,089 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:45:54,089 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:45:54,592 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:45:54,593 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:45:54,594 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:45:54,594 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:45:55,060 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:45:55,060 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:45:55,061 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:45:55,062 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:45:55,486 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:45:55,487 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:45:55,488 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:45:55,488 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:45:55,900 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:45:55,901 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:45:55,902 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:45:55,903 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:45:56,586 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:45:56,587 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:45:56,588 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:45:56,589 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:45:57,029 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:45:57,030 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:45:57,031 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:45:57,452 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:46:57,454 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:46:57,455 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:46:58,121 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:46:58,587 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:46:58,874 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:46:58,875 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:46:59,109 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:46:59,110 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:46:59,401 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:46:59,631 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:46:59,632 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:47:00,016 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:47:00,017 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:47:00,018 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:47:00,244 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:47:00,244 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:47:00,446 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:47:00,733 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:47:00,734 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:47:01,040 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:47:01,040 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:47:01,041 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:47:01,350 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:47:01,351 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:47:01,351 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:47:02,949 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:47:02,950 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:47:02,951 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:47:02,952 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:47:03,429 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:47:03,430 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:47:03,431 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:47:03,432 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:47:04,113 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:47:04,114 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:47:04,115 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:47:04,115 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:47:04,563 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:47:04,564 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:47:04,564 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:47:04,565 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:47:05,085 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:47:05,086 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:47:05,087 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:47:05,087 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:47:05,652 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:47:05,653 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:47:05,654 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:47:05,654 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:47:06,833 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:47:06,834 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:47:06,835 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:47:06,836 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:47:07,500 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:47:07,501 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:47:07,502 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:47:08,003 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:48:08,019 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:48:08,019 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:48:08,772 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:48:09,246 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:48:09,456 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:48:09,457 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:48:09,720 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:48:09,720 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:48:09,923 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:48:10,142 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:48:10,143 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:48:10,377 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:48:10,377 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:48:10,378 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:48:10,619 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:48:10,619 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:48:10,866 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:48:11,174 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:48:11,175 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:48:11,446 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:48:11,446 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:48:11,447 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:48:11,661 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:48:11,662 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:48:11,662 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:48:13,493 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:48:13,494 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:48:13,495 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:48:13,495 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:48:13,977 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:48:13,978 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:48:13,978 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:48:13,979 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:48:14,421 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:48:14,422 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:48:14,422 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:48:14,422 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:48:14,907 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:48:14,908 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:48:14,908 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:48:14,909 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:48:15,375 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:48:15,376 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:48:15,376 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:48:15,377 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:48:15,884 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:48:15,885 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:48:15,885 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:48:15,886 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:48:16,567 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:48:16,568 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:48:16,568 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:48:16,569 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:48:17,072 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:48:17,072 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:48:17,072 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:48:17,465 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:49:17,472 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:49:17,473 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:49:18,053 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:49:18,309 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:49:18,518 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:49:18,519 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:49:18,761 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:49:18,761 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:49:18,958 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:49:19,163 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:49:19,163 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:49:19,382 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:49:19,383 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:49:19,383 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:49:19,584 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:49:19,584 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:49:19,773 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:49:19,982 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:49:19,982 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:49:20,172 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:49:20,172 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:49:20,173 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:49:20,429 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:49:20,430 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:49:20,430 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:49:22,181 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:49:22,181 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:49:22,182 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:49:22,183 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:49:22,669 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:49:22,669 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:49:22,670 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:49:22,670 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:49:23,269 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:49:23,269 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:49:23,270 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:49:23,270 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:49:23,902 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:49:23,908 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:49:23,910 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:49:23,910 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:49:25,007 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:49:25,008 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:49:25,008 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:49:25,009 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:49:25,840 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:49:25,841 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:49:25,841 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:49:25,842 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:49:27,958 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:49:27,959 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:49:27,959 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:49:27,959 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:49:29,778 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:49:29,778 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:49:29,779 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:49:30,150 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:50:30,144 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:50:30,145 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:50:30,722 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:50:31,237 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:50:31,483 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:50:31,483 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:50:31,690 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:50:31,690 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:50:31,938 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:50:32,147 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:50:32,147 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:50:32,345 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:50:32,345 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:50:32,345 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:50:32,558 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:50:32,558 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:50:32,759 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:50:32,965 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:50:32,965 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:50:33,162 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:50:33,162 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:50:33,163 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:50:33,398 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:50:33,398 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:50:33,399 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:50:35,118 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:50:35,118 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:50:35,119 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:50:35,120 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:50:35,659 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:50:35,659 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:50:35,660 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:50:35,660 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:50:36,283 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:50:36,283 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:50:36,284 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:50:36,284 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:50:36,834 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:50:36,834 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:50:36,835 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:50:36,835 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:50:37,374 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:50:37,374 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:50:37,374 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:50:37,375 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:50:38,017 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:50:38,017 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:50:38,018 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:50:38,018 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:50:39,377 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:50:39,377 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:50:39,377 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:50:39,378 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:50:39,990 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:50:39,990 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:50:39,991 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:50:40,573 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:51:40,573 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:51:40,574 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:51:41,402 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:51:41,914 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:51:42,235 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:51:42,236 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:51:42,529 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:51:42,530 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:51:42,805 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:51:43,043 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:51:43,044 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:51:43,248 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:51:43,248 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:51:43,249 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:51:43,553 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:51:43,555 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:51:43,769 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:51:43,972 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:51:43,974 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:51:44,166 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:51:44,166 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:51:44,167 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:51:44,384 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:51:44,385 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:51:44,386 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:51:45,993 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:51:45,994 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:51:45,995 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:51:45,996 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:51:46,538 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:51:46,539 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:51:46,540 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:51:46,541 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:51:47,501 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:51:47,502 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:51:47,502 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:51:47,503 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:51:48,049 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:51:48,050 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:51:48,051 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:51:48,052 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:51:48,631 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:51:48,632 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:51:48,632 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:51:48,633 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:51:49,204 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:51:49,205 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:51:49,206 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:51:49,206 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:51:50,260 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:51:50,261 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:51:50,262 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:51:50,262 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:51:50,841 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:51:50,842 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:51:50,843 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:51:51,208 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:52:51,219 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:52:51,220 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:52:51,953 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:52:52,363 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:52:52,671 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:52:52,672 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:52:52,894 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:52:52,894 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:52:53,084 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:52:53,296 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:52:53,297 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:52:53,592 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:52:53,592 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:52:53,593 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:52:53,899 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:52:53,900 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:52:54,206 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:52:54,529 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:52:54,529 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:52:54,739 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:52:54,740 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:52:54,741 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:52:55,029 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:52:55,029 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:52:55,030 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:52:56,799 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:52:56,800 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:52:56,801 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:52:56,803 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:52:57,419 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:52:57,420 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:52:57,421 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:52:57,422 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:52:58,138 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:52:58,140 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:52:58,141 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:52:58,142 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:52:58,907 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:52:58,908 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:52:58,909 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:52:58,909 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:52:59,665 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:52:59,705 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:52:59,706 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:52:59,710 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:53:00,586 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:53:00,589 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:53:00,590 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:53:00,591 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:53:01,802 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:53:01,803 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:53:01,804 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:53:01,805 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:53:02,529 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:53:02,530 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:53:02,531 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:53:03,012 - emails.email_client - INFO - Disconnected from email server
+2025-09-26 07:54:03,020 - emails.email_processor - INFO - Starting comprehensive email processing...
+2025-09-26 07:54:03,021 - emails.email_client - INFO - Connecting to imap.gmail.com:993
+2025-09-26 07:54:03,733 - emails.email_client - INFO - SSL connection established
+2025-09-26 07:54:04,181 - emails.email_client - INFO - Successfully logged in to email server
+2025-09-26 07:54:04,450 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:54:04,450 - emails.email_processor - INFO - Searching for emails from sender: daphneymaebawork@gmail.com
+2025-09-26 07:54:04,757 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:54:04,758 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:54:04,972 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:54:05,269 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:54:05,270 - emails.email_client - INFO - Searching emails with criteria: (FROM "daphneymaebawork@gmail.com")
+2025-09-26 07:54:05,474 - emails.email_client - INFO - Found 7 emails matching criteria
+2025-09-26 07:54:05,474 - emails.email_processor - INFO - Found 7 emails from daphneymaebawork@gmail.com
+2025-09-26 07:54:05,475 - emails.email_processor - INFO - Searching for emails from sender: in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:54:05,781 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:54:05,782 - emails.email_client - INFO - Searching emails with criteria: (UNSEEN FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:54:06,090 - emails.email_client - INFO - No emails found matching criteria
+2025-09-26 07:54:06,396 - emails.email_client - INFO - Selected folder 'INBOX' with 8514 messages
+2025-09-26 07:54:06,396 - emails.email_client - INFO - Searching emails with criteria: (FROM "in130002421@kisiiuniversity.ac.ke")
+2025-09-26 07:54:06,702 - emails.email_client - INFO - Found 2 emails matching criteria
+2025-09-26 07:54:06,704 - emails.email_processor - INFO - Found 2 emails from in130002421@kisiiuniversity.ac.ke
+2025-09-26 07:54:06,704 - emails.email_processor - INFO - Processing email 1/9
+2025-09-26 07:54:07,013 - emails.email_client - INFO - Extracted 0 attachments from email b'8480'
+2025-09-26 07:54:07,013 - emails.email_client - INFO - Successfully parsed email: No Subject
+2025-09-26 07:54:07,014 - emails.email_processor - INFO - Processing email 2/9
+2025-09-26 07:54:09,037 - emails.email_client - INFO - Extracted 2 attachments from email b'8481'
+2025-09-26 07:54:09,038 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:54:09,040 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:54:09,041 - emails.email_processor - INFO - Processing email 3/9
+2025-09-26 07:54:09,708 - emails.email_client - INFO - Extracted 1 attachments from email b'8486'
+2025-09-26 07:54:09,709 - emails.email_client - INFO - Successfully parsed email: claim
+2025-09-26 07:54:09,709 - emails.email_processor - INFO - Email already processed: claim
+2025-09-26 07:54:09,710 - emails.email_processor - INFO - Processing email 4/9
+2025-09-26 07:54:10,331 - emails.email_client - INFO - Extracted 1 attachments from email b'8490'
+2025-09-26 07:54:10,332 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:54:10,336 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:54:10,340 - emails.email_processor - INFO - Processing email 5/9
+2025-09-26 07:54:11,014 - emails.email_client - INFO - Extracted 1 attachments from email b'8492'
+2025-09-26 07:54:11,015 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:54:11,016 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:54:11,017 - emails.email_processor - INFO - Processing email 6/9
+2025-09-26 07:54:11,654 - emails.email_client - INFO - Extracted 1 attachments from email b'8496'
+2025-09-26 07:54:11,655 - emails.email_client - INFO - Successfully parsed email: claims
+2025-09-26 07:54:11,656 - emails.email_processor - INFO - Email already processed: claims
+2025-09-26 07:54:11,656 - emails.email_processor - INFO - Processing email 7/9
+2025-09-26 07:54:12,319 - emails.email_client - INFO - Extracted 1 attachments from email b'8497'
+2025-09-26 07:54:12,320 - emails.email_client - INFO - Successfully parsed email: Fwd: claims
+2025-09-26 07:54:12,320 - emails.email_processor - INFO - Email already processed: Fwd: claims
+2025-09-26 07:54:12,321 - emails.email_processor - INFO - Processing email 8/9
+2025-09-26 07:54:13,453 - emails.email_client - INFO - Extracted 1 attachments from email b'8506'
+2025-09-26 07:54:13,455 - emails.email_client - INFO - Successfully parsed email: request for claim
+2025-09-26 07:54:13,455 - emails.email_processor - INFO - Email already processed: request for claim
+2025-09-26 07:54:13,456 - emails.email_processor - INFO - Processing email 9/9
+2025-09-26 07:54:14,306 - emails.email_client - INFO - Extracted 2 attachments from email b'8513'
+2025-09-26 07:54:14,306 - emails.email_client - INFO - Successfully parsed email: Re: claims
+2025-09-26 07:54:14,307 - emails.email_processor - INFO - Email already processed: Re: claims
+2025-09-26 07:54:14,894 - emails.email_client - INFO - Disconnected from email server
